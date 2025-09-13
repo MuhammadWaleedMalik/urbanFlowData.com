@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "title": "Únete a {website.name}",
+    "subtitle": "Registra tu iglesia con {website.name} para acceder a herramientas innovadoras para la gestión, financiación y participación comunitaria."
+  },
+  "joinChurch": {
+    "title": "Únete a Nuestra Red",
+    "description": "{website.name} empodera a las iglesias para prosperar en un mundo digital.\nConecta con una red global de ministerios.\nAccede a herramientas para agilizar operaciones.\nInvolucra a tu congregación con soluciones modernas.\nÚnete para aumentar el impacto de tu iglesia.",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Descubre Nuestras Herramientas",
+        "description": "Explora el conjunto de soluciones digitales de {website.name}.\nSimplifica el seguimiento de miembros y la programación de eventos.\nUsa análisis para aumentar la participación.\nAccede a plataformas de donación seguras.",
+        "icon": "church"
+      },
+      {
+        "id": 2,
+        "title": "Conecta Globalmente",
+        "description": "Únete a una red de iglesias en más de 180 países.\nComparte recursos y mejores prácticas.\nColabora en iniciativas misioneras globales.\nAmplía el alcance de tu ministerio con {website.name}.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "Comienza Ahora",
+        "description": "Registra tu iglesia en minutos.\nPersonaliza herramientas según tus necesidades.\nRecibe soporte 24/7 de nuestro equipo.\nTransforma tu ministerio con {website.name}.",
+        "icon": "userCheck"
+      }
+    ]
+  },
+  "registerChurch": {
+    "title": "Registra Tu Iglesia",
+    "description": "Regístrate con {website.name} para desbloquear herramientas poderosas para la gestión de iglesias.\nSacerdotes y miembros pueden registrar su iglesia fácilmente.\nNuestra plataforma apoya todas las denominaciones y tamaños.\nComienza a transformar tu ministerio hoy.",
+    "form": {
+      "title": "Registro de Iglesia",
+      "subtitle": "Completa el formulario a continuación para registrar tu iglesia con {website.name}.",
+      "fields": {
+        "churchName": "Nombre de la Iglesia",
+        "priestName": "Nombre del Sacerdote/Líder",
+        "email": "Dirección de Correo Electrónico",
+        "role": "Tu Rol",
+        "denomination": "Denominación",
+        "submit": "Registrar Iglesia"
+      },
+      "roles": ["Sacerdote", "Administrador de Iglesia", "Coordinador de Voluntarios", "Miembro"],
+      "denominations": ["Católica", "Protestante", "Bautista", "Metodista", "No Denominacional", "Otra"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "Completa el Formulario",
+        "description": "Proporciona los detalles de tu iglesia y tu rol.\nIncluye información del sacerdote o líder.\nSelecciona tu denominación.\nEnvía para iniciar el proceso.",
+        "icon": "userCheck"
+      },
+      {
+        "id": 2,
+        "title": "Configura Tu Perfil",
+        "description": "Crea un perfil de iglesia en {website.name}.\nPersonaliza paneles según tus necesidades.\nIntegra con herramientas existentes.\nAccede a recursos de capacitación.",
+        "icon": "church"
+      },
+      {
+        "id": 3,
+        "title": "Lanza Tus Herramientas",
+        "description": "Activa las herramientas de gestión y financiación de {website.name}.\nInvolucra a tu congregación con análisis.\nAgiliza donaciones y eventos.\nCrece tu ministerio con nuestro apoyo.",
+        "icon": "globe"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "¿Por Qué Unirte a {website.name}?",
+    "items": [
+      {
+        "id": 1,
+        "title": "Gestión Simplificada",
+        "description": "Simplifica las operaciones de la iglesia con {website.name}.\nSigue a miembros, eventos y donaciones sin esfuerzo.\nAutomatiza tareas para ahorrar tiempo.\nEnfócate en el ministerio, no en la administración.",
+        "icon": "church"
+      },
+      {
+        "id": 2,
+        "title": "Financiación Mejorada",
+        "description": "Aumenta los fondos de la iglesia con donaciones en línea seguras.\nUsa herramientas de crowdfunding y donaciones de legado.\nSigue las finanzas con análisis en tiempo real.\nAsegura la transparencia con informes claros.",
+        "icon": "users"
+      },
+      {
+        "id": 3,
+        "title": "Comunidad Global",
+        "description": "Conecta con iglesias de todo el mundo a través de {website.name}.\nComparte recursos y mejores prácticas.\nColabora en misiones y alcance.\nConstruye una comunidad de fe más fuerte.",
+        "icon": "globe"
+      },
+      {
+        "id": 4,
+        "title": "Soporte Accesible",
+        "description": "Obtén soporte 24/7 del equipo de {website.name}.\nAccede a capacitación para una adopción fácil.\nUsa herramientas escalables para cualquier tamaño de iglesia.\nEmpodera tu ministerio con confianza.",
+        "icon": "userCheck"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "title": "{website.name} 运动员问答",
+    "subtitle": "对成为一名运动员有疑问吗？向我们提出任何问题，了解如何利用 {website.name} 的工具和社区，在 {primaryColor1}180+ 个国家{primaryColor1}开启你的运动员之旅。"
+  },
+  "becomeAthlete": {
+    "title": "如何成为运动员",
+    "description": "梦想成为一名运动员？{website.name} 提供资源、工具和社区来帮助你成功。请在下方提交你的问题，或按照这些步骤开始。",
+    "form": {
+      "title": "提出你的问题",
+      "subtitle": "提交关于成为运动员的问题，我们的团队会为你提供个性化建议。",
+      "fields": {
+        "name": "姓名",
+        "email": "电子邮箱",
+        "question": "你的问题",
+        "submit": "提交问题"
+      }
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "加入 {website.name}",
+        "description": "免费注册以访问我们的平台。创建个人资料，与教练和所在运动项目的团队建立联系。",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "使用训练工具",
+        "description": "使用我们的视频分析和表现追踪工具来监控进展并提升技能。",
+        "icon": "video"
+      },
+      {
+        "id": 3,
+        "title": "连接与成长",
+        "description": "加入团队，与教练合作，并与全球 {website.name} 社区互动，推动你的运动员职业发展。",
+        "icon": "star"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      {
+        "id": 1,
+        "question": "成为运动员需要哪些技能？",
+        "answer": "成为运动员需要奉献精神、身体素质以及特定运动的技能。首先要有良好的职业道德，坚持训练，并使用 {website.name} 的分析工具跟踪进度。与教练保持联系，专注于提升耐力、力量和技术。",
+        "icon": "help"
+      },
+      {
+        "id": 2,
+        "question": "{website.name} 如何帮助我成为运动员？",
+        "answer": "{website.name} 提供视频分析、表现数据以及覆盖 {primaryColor1}180+ 个国家{primaryColor1}的教练和运动员社区。上传训练视频，获得反馈，并跟踪进步以在你的运动项目中脱颖而出。",
+        "icon": "video"
+      },
+      {
+        "id": 3,
+        "question": "我可以在 {website.name} 上从事哪些运动？",
+        "answer": "我们的平台支持 15+ 种运动，包括足球、篮球、排球等。选择你的运动项目，加入团队，并使用为你量身定制的工具助你在运动员之路上取得成功。",
+        "icon": "star"
+      },
+      {
+        "id": 4,
+        "question": "如何找到教练或团队？",
+        "answer": "注册后，在 {website.name} 上搜索你所在运动项目的团队或教练。按位置或运动筛选，直接联系并开始合作，推动你的运动员发展之路。",
+        "icon": "users"
+      },
+      {
+        "id": 5,
+        "question": "作为运动员使用 {website.name} 免费吗？",
+        "answer": "是的，你可以免费开始并访问基础功能。升级到高级计划可获得更强大的工具，例如无广告视频分析和高级数据分析。",
+        "icon": "help"
+      }
+    ]
+  }
+}

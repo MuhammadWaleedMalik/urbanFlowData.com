@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "title": "Preguntas y Respuestas de Deportes en {website.name}",
+    "subtitle": "¿Tienes preguntas sobre deportes de todo el mundo? Pregúntanos lo que quieras y conéctate con la comunidad deportiva global en {website.name} en {primaryColor1}más de 180 países{primaryColor1}."
+  },
+  "askQuestion": {
+    "title": "Pregunta sobre deportes",
+    "description": "¿Tienes curiosidad por cualquier deporte, desde el fútbol hasta la lucha de sumo? Envía tus preguntas para recibir consejos y conocimientos de expertos de la comunidad de {website.name}.",
+    "form": {
+      "title": "Envía tu pregunta deportiva",
+      "subtitle": "Completa el siguiente formulario para preguntar sobre cualquier deporte y nuestro equipo te responderá con respuestas personalizadas.",
+      "fields": {
+        "name": "Nombre completo",
+        "email": "Correo electrónico",
+        "sport": "Seleccionar deporte",
+        "question": "Tu pregunta",
+        "submit": "Enviar pregunta"
+      },
+      "sports": ["Fútbol", "Baloncesto", "Voleibol", "Fútbol americano", "Hockey", "Béisbol", "Atletismo", "Natación", "Tenis", "Lacrosse", "Rugby", "Críquet", "Lucha libre", "Softbol", "Gimnasia", "Sumo", "Judo", "Taekwondo"]
+    }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes sobre deportes",
+    "items": [
+      {
+        "id": 1,
+        "question": "¿Cómo puedo empezar con un nuevo deporte?",
+        "answer": "Elige un deporte que te apasione y únete a clubes o equipos locales a través de {website.name}. Usa nuestra plataforma para encontrar entrenadores, acceder a videos de entrenamiento y seguir tu progreso. Comienza con recursos para principiantes y conéctate con la comunidad en {primaryColor1}más de 180 países{primaryColor1} para recibir apoyo.",
+        "icon": "help"
+      },
+      {
+        "id": 2,
+        "question": "¿Cuáles son los deportes más populares a nivel mundial?",
+        "answer": "El fútbol, el baloncesto, el críquet y el voleibol están entre los deportes más populares del mundo. En {website.name} puedes explorar más de 15 deportes, seguir actualizaciones en vivo y conectarte con aficionados y atletas para conocer el impacto global de cada deporte.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "question": "¿Cómo puede {website.name} ayudarme a mejorar mis habilidades deportivas?",
+        "answer": "{website.name} ofrece herramientas de análisis de video, seguimiento del rendimiento y acceso a entrenadores. Sube tus videos de juego, recibe comentarios y utiliza análisis con IA para mejorar tus habilidades sin importar tu deporte o nivel.",
+        "icon": "trophy"
+      },
+      {
+        "id": 4,
+        "question": "¿Puedo conectarme con comunidades deportivas internacionales?",
+        "answer": "¡Sí! {website.name} te conecta con atletas, entrenadores y aficionados en {primaryColor1}más de 180 países{primaryColor1}. Únete a discusiones, comparte consejos y participa en eventos globales para ampliar tu red deportiva.",
+        "icon": "users"
+      },
+      {
+        "id": 5,
+        "question": "¿Hay recursos gratuitos para aprender sobre deportes?",
+        "answer": "Claro. {website.name} ofrece acceso gratuito a funciones básicas como foros comunitarios y videos destacados. Regístrate para explorar estos recursos y mejora a planes premium para obtener herramientas avanzadas como análisis detallados.",
+        "icon": "help"
+      }
+    ]
+  }
+}

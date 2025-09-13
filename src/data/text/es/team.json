@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "Conoce al equipo de {website.name}",
+    "subtitle": "Somos un grupo apasionado de innovadores, exdeportistas y tecnólogos dedicados a revolucionar el rendimiento deportivo."
+  },
+  "mission": {
+    "title": "Quiénes Somos",
+    "description": "En {website.name}, nuestro equipo combina experiencia en deportes, tecnología y experiencia de usuario para crear herramientas que empoderan a atletas y entrenadores en todo el mundo. Nos mueve el amor por la competencia y el compromiso de hacer que el análisis deportivo sea accesible, intuitivo e impactante."
+  },
+  "features": {
+    "title": "Nuestro Liderazgo",
+    "items": [
+      {
+        "id": 1,
+        "title": "Emily Carter",
+        "role": "CEO y Cofundadora",
+        "description": "Emily, exjugadora nacional de hockey sobre césped, cofundó {website.name} para llevar tecnología de vanguardia a cada vestuario. Con 12 años en startups de tecnología deportiva, se enfoca en brindar herramientas de nivel profesional a todos los atletas.",
+        "icon": "users",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymP7BcyIu1rr2Xy7yWG5-EL9cTvjRXKaneg&s"
+      },
+      {
+        "id": 2,
+        "title": "David Li",
+        "role": "Director de Tecnología",
+        "description": "David lidera nuestro departamento de ingeniería con más de dos décadas de experiencia en sistemas de IA y software escalable. Su pasión por transformar datos en información útil impulsa nuestra innovación de productos.",
+        "icon": "stats",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v0b20j64kqwFn-EZf3rec309YPYazxEnSQ&s"
+      },
+      {
+        "id": 3,
+        "title": "Isabella Rossi",
+        "role": "Jefa de Producto",
+        "description": "Isabella, exentrenadora profesional de voleibol, diseña funciones que encajan perfectamente con el flujo de trabajo de los entrenadores. Su profundo conocimiento del deporte y la experiencia de usuario garantiza que {website.name} sea intuitivo y potente.",
+        "icon": "video",
+        "image": "https://media.istockphoto.com/id/1398385367/photo/happy-millennial-business-woman-in-glasses-posing-with-hands-folded.jpg?s=612x612&w=0&k=20&c=Wd2vTDd6tJ5SeEY-aw0WL0bew8TAkyUGVvNQRj3oJFw="
+      },
+      {
+        "id": 4,
+        "title": "Omar Khalid",
+        "role": "Vicepresidente de Operaciones Globales",
+        "description": "Omar gestiona las operaciones en más de {primaryColor1}180 países{primaryColor1}, garantizando una experiencia fluida para todos los usuarios. Su experiencia en logística global y marketing deportivo impulsa nuestra expansión mundial.",
+        "icon": "globe",
+        "image": "https://t3.ftcdn.net/jpg/02/48/15/86/360_F_248158608_0ErNeAWWx6GZVDCg66jNRoPGEhHCSpaJ.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Chloe Nguyen",
+        "role": "Directora de Éxito del Cliente",
+        "description": "Chloe, exatleta universitaria de atletismo, lidera nuestro equipo de atención al cliente con la misma energía que en la pista. Se asegura de que cada usuario reciba un soporte personalizado y logre los mejores resultados en {website.name}.",
+        "icon": "headphones",
+        "image": "https://media.istockphoto.com/id/1347993286/photo/portrait-of-confident-young-professional-smiling-at-camera.jpg?s=612x612&w=0&k=20&c=9DnLQ37LlMFzh9VvoPGKvnM286JCOtUeUYof3C8vIQA="
+      },
+      {
+        "id": 6,
+        "title": "Lucas Andrade",
+        "role": "Ingeniero Principal de IA",
+        "description": "Lucas desarrolla nuestros algoritmos de seguimiento de rendimiento impulsados por IA. Su experiencia en visión por computadora y análisis predictivo facilita que los entrenadores identifiquen jugadas clave y tendencias.",
+        "icon": "camera",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0zYcypyreQSHIWXlpNM2hnAi6gJlYkX3vA&s"
+      }
+    ]
+  },
+  "stats": {
+    "title": "{website.name} en Cifras",
+    "items": [
+      { "value": "200K+", "label": "Equipos en todo el mundo" },
+      { "value": "6M+", "label": "Usuarios activos" },
+      { "value": "180+", "label": "Países" },
+      { "value": "15+", "label": "Deportes" }
+    ]
+  },
+  "team": {
+    "title": "Nuestra Cultura",
+    "description": "En {website.name}, fomentamos una cultura de colaboración, innovación y pasión por el deporte. Nuestro equipo diverso trabaja unido para superar límites, celebrar victorias y apoyarse mutuamente como un verdadero equipo. Únete a nosotros para dar forma al futuro de la tecnología deportiva — visita nuestra página de carreras para ver las vacantes."
+  }
+}

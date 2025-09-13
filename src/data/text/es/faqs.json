@@ -1,0 +1,94 @@
+{
+  "lastUpdated": "Última actualización: 27 de mayo de 2025",
+  "sections": [
+    {
+      "title": "1. Introducción",
+      "faqs": [
+        {
+          "question": "¿Qué es Your Giving Group (YGG)?",
+          "answer": "Your Giving Group (YGG) es una plataforma que ofrece servicios a iglesias, ministerios y otras organizaciones para aumentar las donaciones y la participación. Nuestros servicios incluyen donaciones por mensaje de texto, gestión de eventos, desarrollo de aplicaciones personalizadas, software de gestión de iglesias, creación de sitios web, mensajería, procesamiento de pagos y gestión de medios. Estos servicios están diseñados para ayudar a las organizaciones a fortalecer la interacción con la comunidad y optimizar los procesos de donación."
+        },
+        {
+          "question": "¿Cómo se actualizan los Términos de Servicio?",
+          "answer": "Los Términos de Servicio pueden actualizarse periódicamente. Si hay cambios, los términos revisados se publicarán en https://get.tithe.ly/terms-of-service. El uso continuo de los servicios implica la aceptación de los términos actualizados. Los cambios significativos se comunicarán a través del área de inicio de sesión o la dirección de correo electrónico registrada."
+        }
+      ]
+    },
+    {
+      "title": "2. Sobre Nuestros Servicios",
+      "faqs": [
+        {
+          "question": "¿Cuáles son los principales servicios que ofrece YGG?",
+          "answer": "YGG ofrece donaciones por mensaje de texto, QuickGive™ (donaciones con un solo toque), gestión de eventos, desarrollo de aplicaciones personalizadas, software de gestión de iglesias, creación de sitios web, mensajería, procesamiento de pagos y gestión de medios. Estos servicios están diseñados para apoyar las operaciones organizativas y mejorar las relaciones con los donantes. Para más detalles, visite https://get.tithe.ly."
+        },
+        {
+          "question": "¿Cómo se modifican las funciones de los servicios?",
+          "answer": "YGG se reserva el derecho, a su sola discreción, de actualizar, mantener, modificar, agregar, eliminar o mejorar los servicios. Estos cambios tienen como objetivo mejorar la experiencia del usuario o introducir nuevas funciones. Si un cambio afecta significativamente los servicios, los usuarios pueden ser notificados con antelación."
+        }
+      ]
+    },
+    {
+      "title": "3. Cuenta y Uso",
+      "faqs": [
+        {
+          "question": "¿Qué información se requiere para crear una cuenta?",
+          "answer": "Para crear una cuenta, debe proporcionar información veraz y precisa, incluyendo nombre, dirección, detalles de tarjeta de crédito, información de cuenta bancaria y detalles de verificación de antecedentes. Para los servicios de procesamiento de pagos, también se requiere información personal de los propietarios reales (nombre completo, fecha de nacimiento, número de Seguro Social, etc.) y detalles de la cuenta bancaria. Esta información se utiliza para cumplir con las leyes contra el lavado de dinero y los procedimientos de 'Conozca a su Cliente'."
+        },
+        {
+          "question": "¿Cómo se gestiona la seguridad de la cuenta?",
+          "answer": "Usted es responsable de la seguridad de su cuenta. Establezca una contraseña segura y no la comparta con terceros. YGG no es responsable de acciones no autorizadas o pérdidas derivadas de la compartición de información de la cuenta. Si cree que sus credenciales han sido comprometidas, contacte a support@tithe.ly de inmediato."
+        },
+        {
+          "question": "¿Cómo puedo cancelar el servicio?",
+          "answer": "Puede terminar el servicio con un aviso por escrito con 30 días de antelación. La cancelación se puede realizar a través de su cuenta o contactando a support@tithe.ly. Las tarifas del período de servicio actual no son reembolsables. Tras la terminación, perderá inmediatamente el acceso a su cuenta y datos relacionados."
+        },
+        {
+          "question": "¿Cómo funcionan los servicios de procesamiento de pagos?",
+          "answer": "Los servicios de procesamiento de pagos de YGG admiten tarjetas de crédito, tarjetas de débito y transacciones ACH, proporcionados a través de Stripe. Las transacciones incurren en tarifas de servicio, y los fondos, después de deducir las tarifas, se transfieren a la cuenta bancaria designada diaria, semanal o mensualmente. Los pagos pueden pausarse para prevenir contracargos o fraudes."
+        },
+        {
+          "question": "¿Qué debo saber sobre el uso del servicio de mensajería?",
+          "answer": "El servicio de mensajería se proporciona a través de Twilio y está sujeto a los Términos de Servicio de Twilio. Usted es responsable de obtener el consentimiento de los contactos y cumplir con las leyes de protección de datos. Para más detalles, consulte los Términos de Servicio de Twilio en https://www.twilio.com/legal/tos."
+        },
+        {
+          "question": "¿Qué es la Política de Uso Aceptable?",
+          "answer": "La Política de Uso Aceptable establece las reglas para el uso adecuado de los servicios. Prohíbe actividades ilegales, infracciones de derechos y la carga de código malicioso. Puede revisar la política en https://get.tithe.ly/legal/aup. Todos los usuarios deben cumplir con esta política."
+        }
+      ]
+    },
+    {
+      "title": "4. Tarifas y Pagos",
+      "faqs": [
+        {
+          "question": "¿Cómo se facturan las tarifas de servicio?",
+          "answer": "Las tarifas de servicio incluyen tarifas de suscripción (mensuales o anuales) y tarifas de transacción. Las tarifas de suscripción se cobran periódicamente según el período seleccionado, y las tarifas de transacción se facturan mensualmente según el uso. Todas las tarifas son en dólares estadounidenses, y los detalles están disponibles en https://get.tithe.ly."
+        },
+        {
+          "question": "¿Las suscripciones se renuevan automáticamente?",
+          "answer": "Sí, las suscripciones mensuales o anuales se renuevan automáticamente a menos que se cancelen. La cancelación se puede realizar a través de su cuenta o mediante notificación por escrito. Eliminar la aplicación no cancela la suscripción."
+        },
+        {
+          "question": "¿Qué sucede si hay un contracargo o reembolso?",
+          "answer": "En caso de contracargos o reembolsos, YGG puede deducir el saldo negativo de su cuenta bancaria. Si no se puede recuperar, YGG facturará el saldo pendiente. Para errores, contacte a support@tithe.ly."
+        }
+      ]
+    },
+    {
+      "title": "5. Propiedad Intelectual y Contenido",
+      "faqs": [
+        {
+          "question": "¿Cuáles son los derechos sobre el contenido utilizado en los servicios de YGG?",
+          "answer": "YGG conserva todos los derechos de propiedad intelectual sobre los servicios y el contenido. Se le otorga el derecho de usar el contenido solo para fines comerciales internos. No puede transferir ni vender contenido multimedia a terceros."
+        },
+        {
+          "question": "¿Quién es responsable del contenido de los clientes y los medios?",
+          "answer": "Usted es completamente responsable de la legalidad, precisión y adecuación del contenido de los clientes y los medios que cargue. Esto incluye garantizar que no se infrinjan derechos de autor o de privacidad y obtener los consentimientos necesarios. YGG no está obligado a revisar el contenido."
+        },
+        {
+          "question": "¿Cómo utiliza YGG los datos de los clientes?",
+          "answer": "YGG puede usar datos de clientes desidentificados para análisis de tendencias de la industria, investigaciones estadísticas y mejoras del servicio. Sin embargo, no se divulgará información específica de clientes o donantes individuales."
+        }
+      ]
+    }
+  ]
+}

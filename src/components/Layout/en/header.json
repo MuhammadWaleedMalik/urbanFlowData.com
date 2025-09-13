@@ -1,0 +1,15 @@
+{
+  "logoAlt": "Logo of {websiteName}",
+  "nav": {
+    "home": "Home",
+    "data": "Data",
+    "api": "API",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "languageSelector": {
+    "heading": "Select Language",
+    "changeLanguageLabel": "Change Language"
+  }
+}

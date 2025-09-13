@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "title": "教会を支援するために寄付",
+    "subtitle": "{website.name} を通じて教会に寄付し、その使命とコミュニティアウトリーチを支援しましょう。"
+  },
+  "donate": {
+    "title": "寄付を行う",
+    "description": "{website.name} で寛大な寄付を通じて教会を支援。\n寄付する教会を選択。\nすべての贈り物がミニストリーの繁栄を助けます。\nあなたの寄付は大きな違いを生みます。",
+    "form": {
+      "title": "寄付フォーム",
+      "subtitle": "{website.name} を通じて教会に寄付するために以下のフォームに記入してください。",
+      "fields": {
+        "churchName": "教会名",
+        "amount": "寄付金額（$）",
+        "paymentMethod": "支払い方法",
+        "submit": "今すぐ寄付"
+      },
+      "paymentMethods": ["クレジットカード", "PayPal", "銀行振込"]
+    }
+  },
+  "benefits": {
+    "title": "なぜ {website.name} で寄付するのか？",
+    "items": [
+      {
+        "id": 1,
+        "title": "安全な寄付",
+        "description": "{website.name} の安全なプラットフォームで自信を持って寄付。\nすべての取引は暗号化されています。\nあなたの情報は保護されています。\n教会を安全にサポート。",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "使命の支援",
+        "description": "あなたの寄付は教会が使命とアウトリーチを資金提供するのに役立ちます。\nコミュニティプログラムを可能に。\nグローバルなミニストリーの努力を支援。\n{website.name} で影響を与える。",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "簡単なプロセス",
+        "description": "{website.name} で数クリックで寄付。\n教会と金額を選択。\n便利な支払い方法を選択。\n信仰をサポートするために簡単に寄付。",
+        "icon": "globe"
+      }
+    ]
+  }
+}

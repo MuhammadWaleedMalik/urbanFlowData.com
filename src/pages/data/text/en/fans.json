@@ -1,0 +1,109 @@
+{
+  "hero": {
+    "title": "Become a Fan on {website.name}",
+    "subtitle": "Join the global sports community on {website.name} and cheer for your favorite teams and athletes. Access exclusive content, highlights, and fan experiences in {primaryColor1}180+ countries{primaryColor1}."
+  },
+  "becomeFan": {
+    "title": "How to Become a Fan",
+    "description": "Becoming a fan on {website.name} is simple and free. Follow these steps to connect with your favorite sports, teams, and players, and dive into the action like never before.",
+    "form": {
+      "title": "Sign Up as a Fan",
+      "subtitle": "Fill out the form below to join {website.name} and start supporting your favorite teams.",
+      "fields": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "team": "Favorite Team",
+        "sport": "Select Sport",
+        "submit": "Join as a Fan"
+      },
+      "sports": ["Soccer", "Basketball", "Volleyball", "Football", "Hockey", "Baseball", "Track and Field", "Swimming", "Tennis", "Lacrosse", "Rugby", "Cricket", "Wrestling", "Softball", "Gymnastics"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "Create Your Account",
+        "description": "Sign up for free with your email and basic details. It takes just a minute to join the {website.name} community.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Choose Your Sports",
+        "description": "Select your favorite sports and teams from our list of 15+ sports. Customize your feed to follow the action you love.",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "Engage and Explore",
+        "description": "Watch highlights, follow live updates, and connect with other fans. Share your passion and stay in the game.",
+        "icon": "video"
+      }
+    ]
+  },
+  "fanFeatures": {
+    "title": "Fan Features",
+    "items": [
+      {
+        "id": 1,
+        "title": "Live Game Updates",
+        "description": "Stay in the loop with real-time updates on scores, stats, and key moments from your favorite teams on {website.name}.",
+        "icon": "star",
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlm2k9ynQCOw80b5-G3_zbBzJID9VGuC2yZw&s"
+   },
+      {
+        "id": 2,
+        "title": "Exclusive Highlights",
+        "description": "Watch curated video highlights of top plays and moments, available only to {website.name} fans, directly on our platform.",
+        "icon": "video",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJSfThBs8COrlIGgDqrTOhkQ9wFAvN0gwdiQ&s"
+      },
+      {
+        "id": 3,
+        "title": "Fan Community",
+        "description": "Join discussions with fans in {primaryColor1}180+ countries{primaryColor1}. Share your thoughts and celebrate victories together.",
+        "icon": "users",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAqUkfjTWb2xObF7WiqUhJGtjgpiDXytjSA&s"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why Be a Fan on {website.name}",
+    "items": [
+      {
+        "id": 1,
+        "title": "Real-Time Engagement",
+        "description": "Get instant updates and interact with live game moments to feel closer to the action.",
+        "icon": "star"
+      },
+      {
+        "id": 2,
+        "title": "Exclusive Content",
+        "description": "Access premium highlights, interviews, and behind-the-scenes content tailored for fans.",
+        "icon": "video"
+      },
+      {
+        "id": 3,
+        "title": "Global Fanbase",
+        "description": "Connect with millions of fans worldwide and share your passion for sports.",
+        "icon": "users"
+      },
+      {
+        "id": 4,
+        "title": "Personalized Experience",
+        "description": "Customize your feed to follow your favorite teams, sports, and players effortlessly.",
+        "icon": "heart"
+      },
+      {
+        "id": 5,
+        "title": "Free to Join",
+        "description": "Start as a fan for free and upgrade for premium features like ad-free viewing.",
+        "icon": "star"
+      },
+      {
+        "id": 6,
+        "title": "Multi-Sport Access",
+        "description": "Support any sport, from soccer to volleyball, with tools designed for every fan.",
+        "icon": "heart"
+      }
+    ]
+  }
+}

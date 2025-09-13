@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "title": "加入 {website.name}",
+    "subtitle": "在 {website.name} 注册您的教会，以使用创新的工具进行管理、融资和社区参与。"
+  },
+  "joinChurch": {
+    "title": "加入我们的网络",
+    "description": "{website.name} 赋能教会蓬勃发展于数字世界。\n连接全球的事工网络。\n获取简化运营的工具。\n通过现代解决方案吸引您的会众。\n加入我们，提升教会的影响力。",
+    "steps": [
+      {
+        "id": 1,
+        "title": "探索我们的工具",
+        "description": "了解 {website.name} 的数字解决方案套件。\n简化成员跟踪和活动安排。\n使用分析提升参与度。\n获取安全的捐款平台。",
+        "icon": "church"
+      },
+      {
+        "id": 2,
+        "title": "全球连接",
+        "description": "加入覆盖180多个国家的教会网络。\n共享资源和最佳实践。\n合作开展全球使命活动。\n通过 {website.name} 扩展您的事工范围。",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "开始使用",
+        "description": "在几分钟内注册您的教会。\n定制适合您需求的工具。\n获得我们团队的24/7支持。\n通过 {website.name} 变革您的事工。",
+        "icon": "userCheck"
+      }
+    ]
+  },
+  "registerChurch": {
+    "title": "注册您的教会",
+    "description": "在 {website.name} 注册，解锁强大的教会管理工具。\n牧师和成员可以轻松注册教会。\n我们的平台支持所有教派和规模。\n今天开始变革您的事工。",
+    "form": {
+      "title": "教会注册",
+      "subtitle": "填写以下表单以在 {website.name} 注册您的教会。",
+      "fields": {
+        "churchName": "教会名称",
+        "priestName": "牧师/领袖姓名",
+        "email": "电子邮件地址",
+        "role": "您的角色",
+        "denomination": "教派",
+        "submit": "注册教会"
+      },
+      "roles": ["牧师", "教会管理员", "志愿者协调员", "成员"],
+      "denominations": ["天主教", "新教", "浸信会", "卫理公会", "非宗派", "其他"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "填写表单",
+        "description": "提供您的教会详细信息和角色。\n包括牧师或领袖信息。\n选择您的教派。\n提交以开始流程。",
+        "icon": "userCheck"
+      },
+      {
+        "id": 2,
+        "title": "设置您的档案",
+        "description": "在 {website.name} 上创建教会档案。\n为您的需求定制仪表板。\n与现有工具整合。\n获取培训资源。",
+        "icon": "church"
+      },
+      {
+        "id": 3,
+        "title": "启动您的工具",
+        "description": "激活 {website.name} 的管理和融资工具。\n通过分析吸引您的会众。\n简化捐款和活动。\n在我们的支持下发展您的事工。",
+        "icon": "globe"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "为何加入 {website.name}？",
+    "items": [
+      {
+        "id": 1,
+        "title": "简化管理",
+        "description": "通过 {website.name} 简化教会运营。\n轻松跟踪成员、活动和捐款。\n自动化任务以节省时间。\n专注于事工，而非行政。",
+        "icon": "church"
+      },
+      {
+        "id": 2,
+        "title": "增强融资",
+        "description": "通过安全的在线捐款提升教会资金。\n使用众筹和遗产捐款工具。\n通过实时分析跟踪财务。\n通过清晰的报告确保透明度。",
+        "icon": "users"
+      },
+      {
+        "id": 3,
+        "title": "全球社区",
+        "description": "通过 {website.name} 与全球教会连接。\n共享资源和最佳实践。\n合作开展使命和外展活动。\n建立更强大的信仰社区。",
+        "icon": "globe"
+      },
+      {
+        "id": 4,
+        "title": "可访问的支持",
+        "description": "获得 {website.name} 团队的24/7支持。\n获取易于采用的培训。\n使用适合任何教会规模的可扩展工具。\n自信赋能您的事工。",
+        "icon": "userCheck"
+      }
+    ]
+  }
+}

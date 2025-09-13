@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "认识 {website.name} 团队",
+    "subtitle": "我们是一群充满激情的创新者、前运动员和技术专家，致力于革新体育表现。"
+  },
+  "mission": {
+    "title": "我们是谁",
+    "description": "在 {website.name}，我们的团队结合了体育、技术和用户体验方面的专业知识，打造赋能全球运动员和教练的工具。我们因对竞争的热爱以及让体育分析变得易于获取、直观且有影响力的承诺而驱动。"
+  },
+  "features": {
+    "title": "我们的领导团队",
+    "items": [
+      {
+        "id": 1,
+        "title": "Emily Carter",
+        "role": "首席执行官兼联合创始人",
+        "description": "Emily 曾是国家曲棍球队员，联合创立 {website.name}，旨在将尖端科技带入每个更衣室。她在体育科技初创公司拥有 12 年经验，专注于为每位运动员提供职业级工具。",
+        "icon": "users",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymP7BcyIu1rr2Xy7yWG5-EL9cTvjRXKaneg&s"
+      },
+      {
+        "id": 2,
+        "title": "David Li",
+        "role": "首席技术官",
+        "description": "David 拥有二十多年的人工智能系统和可扩展软件经验，领导我们的工程部门。他热衷于将原始数据转化为可执行的洞察力，推动我们的产品创新。",
+        "icon": "stats",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v0b20j64kqwFn-EZf3rec309YPYazxEnSQ&s"
+      },
+      {
+        "id": 3,
+        "title": "Isabella Rossi",
+        "role": "产品主管",
+        "description": "Isabella 曾是职业排球教练，设计的功能完美契合教练的工作流程。她对体育和用户体验的深刻理解，确保 {website.name} 保持直观且强大。",
+        "icon": "video",
+        "image": "https://media.istockphoto.com/id/1398385367/photo/happy-millennial-business-woman-in-glasses-posing-with-hands-folded.jpg?s=612x612&w=0&k=20&c=Wd2vTDd6tJ5SeEY-aw0WL0bew8TAkyUGVvNQRj3oJFw="
+      },
+      {
+        "id": 4,
+        "title": "Omar Khalid",
+        "role": "全球运营副总裁",
+        "description": "Omar 管理 {primaryColor1}180+ 个国家{primaryColor1}的运营，确保每位用户都能获得顺畅体验。他在全球物流和体育营销方面的背景推动了我们的全球拓展。",
+        "icon": "globe",
+        "image": "https://t3.ftcdn.net/jpg/02/48/15/86/360_F_248158608_0ErNeAWWx6GZVDCg66jNRoPGEhHCSpaJ.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Chloe Nguyen",
+        "role": "客户成功总监",
+        "description": "Chloe 曾是大学田径运动员，如今以同样的活力领导客户成功团队。她确保每位用户获得个性化支持，并在 {website.name} 上取得最佳成果。",
+        "icon": "headphones",
+        "image": "https://media.istockphoto.com/id/1347993286/photo/portrait-of-confident-young-professional-smiling-at-camera.jpg?s=612x612&w=0&k=20&c=9DnLQ37LlMFzh9VvoPGKvnM286JCOtUeUYof3C8vIQA="
+      },
+      {
+        "id": 6,
+        "title": "Lucas Andrade",
+        "role": "首席 AI 工程师",
+        "description": "Lucas 设计了我们的 AI 驱动性能追踪算法。凭借在计算机视觉和预测分析方面的专长，他让教练轻松识别关键比赛和趋势。",
+        "icon": "camera",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0zYcypyreQSHIWXlpNM2hnAi6gJlYkX3vA&s"
+      }
+    ]
+  },
+  "stats": {
+    "title": "{website.name} 数据一览",
+    "items": [
+      { "value": "200K+", "label": "全球团队" },
+      { "value": "6M+", "label": "活跃用户" },
+      { "value": "180+", "label": "国家" },
+      { "value": "15+", "label": "体育项目" }
+    ]
+  },
+  "team": {
+    "title": "我们的文化",
+    "description": "在 {website.name}，我们提倡协作、创新和对体育的热情。我们的多元化团队齐心协力，不断突破界限、庆祝胜利，并像真正的团队一样互相支持。加入我们，共同塑造体育科技的未来——请查看我们的招聘页面了解职位空缺。"
+  }
+}

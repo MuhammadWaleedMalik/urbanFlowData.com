@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Pledge to Support Churches",
+    "subtitle": "Make a pledge through {website.name} to support the mission and community outreach of churches."
+  },
+  "pledge": {
+    "title": "Make a Pledge",
+    "description": "Support churches with recurring pledges through {website.name}.\nChoose a church for your pledge.\nEach pledge strengthens ministries.\nYour ongoing support makes a difference.",
+    "form": {
+      "title": "Pledge Form",
+      "subtitle": "Complete the form below to make a pledge to a church through {website.name}.",
+      "fields": {
+        "churchName": "Church Name",
+        "pledgeAmount": "Pledge Amount ($)",
+        "frequency": "Pledge Frequency",
+        "paymentMethod": "Payment Method",
+        "submit": "Make Pledge Now"
+      },
+      "frequencies": ["Monthly", "Quarterly", "Yearly"],
+      "paymentMethods": ["Credit Card", "PayPal", "Bank Transfer"]
+    }
+  },
+  "benefits": {
+    "title": "Why Pledge with {website.name}?",
+    "items": [
+      {
+        "id": 1,
+        "title": "Secure Pledges",
+        "description": "Pledge with confidence using {website.name}'s secure platform.\nAll transactions are encrypted.\nYour information is protected.\nSupport churches safely.",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "Ongoing Support",
+        "description": "Your recurring pledges help churches plan and fund missions.\nThey sustain community programs.\nThey support long-term ministerial efforts.\nMake an impact with {website.name}.",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "Simple Process",
+        "description": "Pledge in just a few clicks with {website.name}.\nChoose your church, amount, and frequency.\nSelect a convenient payment method.\nSupport faith easily.",
+        "icon": "globe"
+      }
+    ]
+  }
+}

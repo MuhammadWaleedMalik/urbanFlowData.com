@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "title": "捐赠支持教会",
+    "subtitle": "通过 {website.name} 向教会捐款，支持其使命和社区外展。"
+  },
+  "donate": {
+    "title": "进行捐赠",
+    "description": "通过 {website.name} 的慷慨捐款支持教会。\n选择您要捐赠的教会。\n每一份礼物都帮助事工蓬勃发展。\n您的捐款意义重大。",
+    "form": {
+      "title": "捐赠表格",
+      "subtitle": "填写以下表格，通过 {website.name} 向教会捐款。",
+      "fields": {
+        "churchName": "教会名称",
+        "amount": "捐赠金额（$）",
+        "paymentMethod": "支付方式",
+        "submit": "立即捐赠"
+      },
+      "paymentMethods": ["信用卡", "PayPal", "银行转账"]
+    }
+  },
+  "benefits": {
+    "title": "为何通过 {website.name} 捐赠？",
+    "items": [
+      {
+        "id": 1,
+        "title": "安全捐赠",
+        "description": "使用 {website.name} 的安全平台自信捐赠。\n所有交易均加密。\n您的信息受到保护。\n安全支持教会。",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "支持使命",
+        "description": "您的捐款帮助教会资助使命和外展活动。\n支持社区项目。\n支持全球事工努力。\n通过 {website.name} 产生影响。",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "简便流程",
+        "description": "通过 {website.name} 几次点击即可捐赠。\n选择您的教会和金额。\n选择方便的支付方式。\n轻松捐赠以支持信仰。",
+        "icon": "globe"
+      }
+    ]
+  }
+}

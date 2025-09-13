@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "title": "Join {website.name}",
+    "subtitle": "Register your church with {website.name} to access innovative tools for management, funding, and community engagement."
+  },
+  "joinChurch": {
+    "title": "Join Our Network",
+    "description": "{website.name} empowers churches to thrive in a digital world.\nConnect with a global network of ministries.\nAccess tools to streamline operations.\nEngage your congregation with modern solutions.\nJoin us to enhance your church's impact.",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Discover Our Tools",
+        "description": "Explore {website.name}'s suite of digital solutions.\nSimplify member tracking and event scheduling.\nUse analytics to boost engagement.\nAccess secure donation platforms.",
+        "icon": "church"
+      },
+      {
+        "id": 2,
+        "title": "Connect Globally",
+        "description": "Join a network of churches in 180+ countries.\nShare resources and best practices.\nCollaborate on global mission initiatives.\nExpand your ministry's reach with {website.name}.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "Get Started",
+        "description": "Register your church in minutes.\nCustomize tools to fit your needs.\nReceive 24/7 support from our team.\nTransform your ministry with {website.name}.",
+        "icon": "userCheck"
+      }
+    ]
+  },
+  "registerChurch": {
+    "title": "Register Your Church",
+    "description": "Sign up with {website.name} to unlock powerful tools for church management.\nPriests and members can register their church easily.\nOur platform supports all denominations and sizes.\nStart transforming your ministry today.",
+    "form": {
+      "title": "Church Registration",
+      "subtitle": "Fill out the form below to register your church with {website.name}.",
+      "fields": {
+        "churchName": "Church Name",
+        "priestName": "Priest/Leader Name",
+        "email": "Email Address",
+        "role": "Your Role",
+        "denomination": "Denomination",
+        "submit": "Register Church"
+      },
+      "roles": ["Priest", "Church Administrator", "Volunteer Coordinator", "Member"],
+      "denominations": ["Catholic", "Protestant", "Baptist", "Methodist", "Non-Denominational", "Other"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "Complete the Form",
+        "description": "Provide your church's details and your role.\nInclude priest or leader information.\nSelect your denomination.\nSubmit to start the process.",
+        "icon": "userCheck"
+      },
+      {
+        "id": 2,
+        "title": "Set Up Your Profile",
+        "description": "Create a church profile on {website.name}.\nCustomize dashboards for your needs.\nIntegrate with existing tools.\nAccess training resources.",
+        "icon": "church"
+      },
+      {
+        "id": 3,
+        "title": "Launch Your Tools",
+        "description": "Activate {website.name}'s management and funding tools.\nEngage your congregation with analytics.\nStreamline donations and events.\nGrow your ministry with our support.",
+        "icon": "globe"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why Join {website.name}?",
+    "items": [
+      {
+        "id": 1,
+        "title": "Streamlined Management",
+        "description": "Simplify church operations with {website.name}.\nTrack members, events, and donations effortlessly.\nAutomate tasks to save time.\nFocus on ministry, not administration.",
+        "icon": "church"
+      },
+      {
+        "id": 2,
+        "title": "Enhanced Funding",
+        "description": "Boost church funding with secure online donations.\nUse crowdfunding and legacy giving tools.\nTrack finances with real-time analytics.\nEnsure transparency with clear reports.",
+        "icon": "users"
+      },
+      {
+        "id": 3,
+        "title": "Global Community",
+        "description": "Connect with churches worldwide through {website.name}.\nShare resources and best practices.\nCollaborate on missions and outreach.\nBuild a stronger faith community.",
+        "icon": "globe"
+      },
+      {
+        "id": 4,
+        "title": "Accessible Support",
+        "description": "Get 24/7 support from {website.name}'s team.\nAccess training for easy adoption.\nUse scalable tools for any church size.\nEmpower your ministry with confidence.",
+        "icon": "userCheck"
+      }
+    ]
+  }
+}

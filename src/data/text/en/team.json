@@ -1,0 +1,88 @@
+{
+  "hero": {
+    "title": "Meet the {website.name} Team",
+    "subtitle": "We're a passionate group of innovators, former athletes, and technologists dedicated to revolutionizing sports performance."
+  },
+  "mission": {
+    "title": "Who We Are",
+    "description": "At {website.name}, our team combines expertise in sports, technology, and user experience to build tools that empower athletes and coaches worldwide. We're driven by a shared love for competition and a commitment to making sports analysis accessible, intuitive, and impactful."
+  },
+  "features": {
+    "title": "Our Leadership",
+    "items": [
+      {
+        "id": 1,
+        "title": "Emily Carter",
+        "role": "CEO & Co-Founder",
+        "description": "Emily, a former national field hockey player, co-founded {website.name} to bring cutting-edge technology to every locker room. With 12 years in sports tech startups, she’s focused on giving every athlete access to pro-level tools.",
+        "icon": "users",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymP7BcyIu1rr2Xy7yWG5-EL9cTvjRXKaneg&s"
+      },
+      {
+        "id": 2,
+        "title": "David Li",
+        "role": "Chief Technology Officer",
+        "description": "David leads our engineering division with over two decades of experience in AI systems and scalable software. His passion for transforming raw data into actionable insights drives our product innovation.",
+        "icon": "stats",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v0b20j64kqwFn-EZf3rec309YPYazxEnSQ&s"
+      },
+      {
+        "id": 3,
+        "title": "Isabella Rossi",
+        "role": "Head of Product",
+        "description": "Isabella, a former professional volleyball coach, designs features that align perfectly with coaches’ workflows. Her deep understanding of both sports and UX ensures {website.name} stays intuitive and powerful.",
+        "icon": "video",
+        "image": "https://media.istockphoto.com/id/1398385367/photo/happy-millennial-business-woman-in-glasses-posing-with-hands-folded.jpg?s=612x612&w=0&k=20&c=Wd2vTDd6tJ5SeEY-aw0WL0bew8TAkyUGVvNQRj3oJFw="
+      },
+      {
+        "id": 4,
+        "title": "Omar Khalid",
+        "role": "VP of Global Operations",
+        "description": "Omar manages operations across {primaryColor1}180+ countries{primaryColor1}, ensuring a smooth experience for every user. His background in global logistics and sports marketing fuels our worldwide reach.",
+        "icon": "globe",
+        "image": "https://t3.ftcdn.net/jpg/02/48/15/86/360_F_248158608_0ErNeAWWx6GZVDCg66jNRoPGEhHCSpaJ.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Chloe Nguyen",
+        "role": "Director of Customer Success",
+        "description": "Chloe leads our customer success team with the same energy she brought as a collegiate track and field athlete. She ensures every user gets personalized support and maximizes their results on {website.name}.",
+        "icon": "headphones",
+        "image": "https://media.istockphoto.com/id/1347993286/photo/portrait-of-confident-young-professional-smiling-at-camera.jpg?s=612x612&w=0&k=20&c=9DnLQ37LlMFzh9VvoPGKvnM286JCOtUeUYof3C8vIQA="
+      },
+      {
+        "id": 6,
+        "title": "Lucas Andrade",
+        "role": "Lead AI Engineer",
+        "description": "Lucas designs our AI-driven performance tracking algorithms. With expertise in computer vision and predictive analytics, he makes identifying key plays and trends effortless for coaches.",
+        "icon": "camera",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0zYcypyreQSHIWXlpNM2hnAi6gJlYkX3vA&s"
+      }
+    ]
+  },
+  "stats": {
+    "title": "{website.name} By The Numbers",
+    "items": [
+      {
+        "value": "200K+",
+        "label": "Teams Worldwide"
+      },
+      {
+        "value": "6M+",
+        "label": "Active Users"
+      },
+      {
+        "value": "180+",
+        "label": "Countries"
+      },
+      {
+        "value": "15+",
+        "label": "Sports"
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Culture",
+    "description": "At {website.name}, we foster a culture of collaboration, innovation, and passion for sports. Our diverse team works together to push boundaries, celebrate wins, and support each other like a true team. Join us in shaping the future of sports technology—check our careers page for open roles."
+  }
+}

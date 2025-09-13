@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "title": "Preguntas y Respuestas para Atletas en {website.name}",
+    "subtitle": "¿Tienes preguntas sobre cómo convertirte en atleta? Pregúntanos lo que quieras y descubre cómo comenzar tu carrera deportiva con las herramientas y la comunidad de {website.name} en {primaryColor1}más de 180 países{primaryColor1}."
+  },
+  "becomeAthlete": {
+    "title": "Cómo Convertirse en Atleta",
+    "description": "¿Sueñas con ser atleta? {website.name} ofrece recursos, herramientas y una comunidad para ayudarte a tener éxito. Envía tus preguntas a continuación o sigue estos pasos para comenzar.",
+    "form": {
+      "title": "Haz tu Pregunta",
+      "subtitle": "Envía tu pregunta sobre cómo convertirte en atleta y nuestro equipo te responderá con asesoría personalizada.",
+      "fields": {
+        "name": "Nombre Completo",
+        "email": "Correo Electrónico",
+        "question": "Tu Pregunta",
+        "submit": "Enviar Pregunta"
+      }
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "Únete a {website.name}",
+        "description": "Regístrate gratis para acceder a nuestra plataforma. Crea un perfil y conecta con entrenadores y equipos en tu deporte.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Entrena con Herramientas",
+        "description": "Utiliza nuestras herramientas de análisis de video y seguimiento de rendimiento para monitorear tu progreso y mejorar tus habilidades.",
+        "icon": "video"
+      },
+      {
+        "id": 3,
+        "title": "Conéctate y Crece",
+        "description": "Únete a equipos, colabora con entrenadores y participa en la comunidad global de {website.name} para avanzar en tu carrera deportiva.",
+        "icon": "star"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "id": 1,
+        "question": "¿Qué habilidades necesito para ser atleta?",
+        "answer": "Ser atleta requiere dedicación, buena condición física y habilidades específicas para tu deporte. Comienza con una ética de trabajo sólida, entrena de forma constante y utiliza las herramientas de análisis de {website.name} para seguir tu progreso. Conecta con entrenadores y enfócate en mejorar tu resistencia, fuerza y técnica.",
+        "icon": "help"
+      },
+      {
+        "id": 2,
+        "question": "¿Cómo me ayuda {website.name} a convertirme en atleta?",
+        "answer": "{website.name} ofrece análisis de video, estadísticas de rendimiento y una comunidad de entrenadores y atletas en {primaryColor1}más de 180 países{primaryColor1}. Sube tus videos de entrenamiento, recibe retroalimentación y sigue tu progreso para destacar en tu deporte.",
+        "icon": "video"
+      },
+      {
+        "id": 3,
+        "question": "¿Qué deportes puedo practicar en {website.name}?",
+        "answer": "Nuestra plataforma admite más de 15 deportes, incluyendo fútbol, baloncesto, voleibol y más. Elige tu deporte, únete a equipos y accede a herramientas diseñadas para ti.",
+        "icon": "star"
+      },
+      {
+        "id": 4,
+        "question": "¿Cómo encuentro un entrenador o equipo?",
+        "answer": "Después de registrarte, busca equipos o entrenadores en tu deporte en {website.name}. Filtra por ubicación o deporte, conéctate directamente y comienza a colaborar.",
+        "icon": "users"
+      },
+      {
+        "id": 5,
+        "question": "¿Es gratis usar {website.name} como atleta?",
+        "answer": "Sí, puedes empezar gratis con acceso a funciones básicas. Mejora a planes premium para obtener herramientas avanzadas como análisis de video sin anuncios y estadísticas mejoradas.",
+        "icon": "help"
+      }
+    ]
+  }
+}

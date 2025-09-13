@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "title": "Sports Q&A on {website.name}",
+    "subtitle": "Have questions about sports from around the world? Ask us anything and connect with the global sports community on {website.name} in {primaryColor1}180+ countries{primaryColor1}."
+  },
+  "askQuestion": {
+    "title": "Ask About Sports",
+    "description": "Curious about any sport, from soccer to sumo wrestling? Submit your questions to get expert advice and insights from the {website.name} community.",
+    "form": {
+      "title": "Submit Your Sports Question",
+      "subtitle": "Fill out the form below to ask about any sport, and our team will respond with tailored answers.",
+      "fields": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "sport": "Select Sport",
+        "question": "Your Question",
+        "submit": "Submit Question"
+      },
+      "sports": ["Soccer", "Basketball", "Volleyball", "Football", "Hockey", "Baseball", "Track and Field", "Swimming", "Tennis", "Lacrosse", "Rugby", "Cricket", "Wrestling", "Softball", "Gymnastics", "Sumo Wrestling", "Judo", "Taekwondo"]
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions About Sports",
+    "items": [
+      {
+        "id": 1,
+        "question": "How can I get started with a new sport?",
+        "answer": "Choose a sport you’re passionate about and join local clubs or teams through {website.name}. Use our platform to find coaches, access training videos, and track your progress. Start with beginner-friendly resources and connect with the community in {primaryColor1}180+ countries{primaryColor1} for support.",
+        "icon": "help"
+      },
+      {
+        "id": 2,
+        "question": "What are the most popular sports globally?",
+        "answer": "Soccer, basketball, cricket, and volleyball are among the most popular sports worldwide. On {website.name}, you can explore 15+ sports, follow live updates, and connect with fans and athletes to learn more about each sport’s global impact.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "question": "How can {website.name} help me improve my sports skills?",
+        "answer": "{website.name} offers video analysis tools, performance tracking, and access to coaches. Upload your gameplay, get feedback, and use AI-driven analytics to enhance your skills, no matter your sport or level.",
+        "icon": "trophy"
+      },
+      {
+        "id": 4,
+        "question": "Can I connect with international sports communities?",
+        "answer": "Yes! {website.name} connects you with athletes, coaches, and fans in {primaryColor1}180+ countries{primaryColor1}. Join discussions, share tips, and participate in global events to expand your sports network.",
+        "icon": "users"
+      },
+      {
+        "id": 5,
+        "question": "Are there free resources for learning about sports?",
+        "answer": "Absolutely. {website.name} offers free access to basic features like community forums and highlight videos. Sign up to explore these resources and upgrade for premium tools like advanced analytics.",
+        "icon": "help"
+      }
+    ]
+  }
+}

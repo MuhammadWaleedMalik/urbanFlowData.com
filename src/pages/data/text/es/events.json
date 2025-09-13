@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Gestionar Eventos de la Iglesia",
+    "subtitle": "Organiza y añade eventos para iglesias a través de {website.name} para involucrar a tu comunidad y mantener a todos informados mediante notificaciones por correo electrónico."
+  },
+  "events": {
+    "title": "Agregar un Nuevo Evento",
+    "description": "Gestiona eventos relacionados con iglesias en {website.name}.\nAgrega nuevos eventos para mantener a tu comunidad actualizada.\nLos participantes recibirán notificaciones por correo electrónico sobre los próximos eventos.\nFortalece los lazos comunitarios a través de actividades organizadas.",
+    "form": {
+      "title": "Formulario de Adición de Evento",
+      "subtitle": "Completa el formulario a continuación para agregar un nuevo evento de iglesia a través de {website.name}. Las notificaciones por correo electrónico se enviarán automáticamente a los usuarios registrados.",
+      "fields": {
+        "churchName": "Nombre de la Iglesia",
+        "eventName": "Nombre del Evento",
+        "eventDate": "Fecha del Evento",
+        "eventTime": "Hora del Evento",
+        "location": "Ubicación",
+        "description": "Descripción",
+        "submit": "Agregar Evento Ahora"
+      }
+    }
+  },
+  "benefits": {
+    "title": "¿Por qué gestionar eventos con {website.name}?",
+    "items": [
+      {
+        "id": 1,
+        "title": "Organización Fácil",
+        "description": "Agrega y gestiona eventos fácilmente en {website.name}.\nSimplifica la planificación de actividades de la iglesia.\nMantén todo en un solo lugar.\nAumenta la participación de la comunidad.",
+        "icon": "calendar"
+      },
+      {
+        "id": 2,
+        "title": "Notificaciones por Correo",
+        "description": "Notifica automáticamente a los participantes por correo electrónico sobre nuevos eventos.\nAsegura una alta asistencia.\nMantén a los miembros informados en tiempo real.\nConstruye conexiones más fuertes con {website.name}.",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "Enfoque Comunitario",
+        "description": "Crea eventos que fomenten la comunidad y la fe.\nSelecciona fácilmente detalles como fecha, hora y lugar.\nApoya las misiones de la iglesia en todo el mundo.\nGenera impacto a través de eventos organizados.",
+        "icon": "map"
+      }
+    ]
+  }
+}

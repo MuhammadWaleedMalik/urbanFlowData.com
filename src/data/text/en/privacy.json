@@ -1,0 +1,33 @@
+{
+  "lastUpdated": "Last Updated: September 1, 2025",
+  "sections": [
+    {
+      "title": "Responsibility for Data Processing",
+      "content": "STIB-MIVB is qualified as responsible for personal data processing only for the processing of data collected by STIB-MIVB itself."
+    },
+    {
+      "title": "Purposes of Data Processing",
+      "content": "The personal data collected is used for the following purposes:\n- Creating user profiles;\n- Providing a platform allowing users to access, share, and exchange data and datasets;\n- Providing APIs for access to datasets;\n- Monitoring the application of the present Terms of Use and of any legitimate and/or illegitimate use of the information, which also includes all measures to avoid fraud;\n- Compiling statistics on attendance/downloads."
+    },
+    {
+      "title": "Data Collected",
+      "content": "This data processing concerns the following data regarding users of services related to open data:\n- First name\n- Name\n- Email address\n- Encrypted password\n- IP address\n- Other professional data\n- Company that employs you\n- Country\n- Type of access granted"
+    },
+    {
+      "title": "Justifications for Data Processing",
+      "content": "The processing of these data is based on the execution of the licence agreement for use of the Open Data platform concluded between yourself and STIB-MIVB, as well as on STIB-MIVB's legitimate interest in monitoring the application of the conditions for license reuse in order to prevent fraud and compile statistics."
+    },
+    {
+      "title": "Origin of the Data",
+      "content": "You provide these data when you register on the Open Data platform."
+    },
+    {
+      "title": "Data Sharing with Third Parties",
+      "content": "Our Open Data platform is hosted by a service provider, who, in this capacity, is managing the data you provide us."
+    },
+    {
+      "title": "Data Retention Period",
+      "content": "The data are kept during a period of maximum 1 year."
+    }
+  ]
+} 

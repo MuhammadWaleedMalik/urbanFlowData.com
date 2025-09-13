@@ -1,0 +1,73 @@
+{
+  "header": {
+    "logo": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo1.jpeg"
+  },
+  "page1": {
+    "title": "欢迎来到我们的新开放数据门户！",
+    "description": "能够访问现有的数据集固然很好，但更棒的是能够交流想法并获得灵感。创新的解决方案就在眼前！您也想让布鲁塞尔保持畅通吗？立即订阅我们的门户，及时获取所有新的数据集。",
+    "links": [
+      {
+        "text": "浏览目录",
+        "url": "/catalogue"
+      }
+    ]
+  },
+  "page2": {
+    "title": "可用数据",
+    "cards": [
+      { "title": "GTFS", "description": "整个网络的标准化数据格式，使用方便。" },
+      { "title": "Shapefiles", "description": "Shapefiles 可让您在地图上绘制我们的线路和站点。" },
+      { "title": "线路与站点", "description": "在这里，您可以找到有关线路和站点的所有信息。" },
+      { "title": "车辆位置", "description": "您将获得实时车辆位置信息。" },
+      { "title": "等待时间", "description": "一目了然即可知道车辆何时到达车站！" },
+      { "title": "客户信息", "description": "网络出现故障？请将信息分享给我们的合作伙伴。" }
+    ]
+  },
+  "page3": {
+    "title": "联系我们",
+    "description": "您是否有我们的开放数据门户未能解决的问题或特殊需求？请联系我们！",
+    "formDescription": "此表单仅用于与我们的开放数据平台相关的特定问题。其他问题请通过 STIB 官方客户服务渠道联系。除非另有说明，所有字段均为必填。",
+    "fields": [
+      { "label": "您的姓名", "type": "text", "required": true },
+      { "label": "电子邮箱", "type": "email", "required": true },
+      { "label": "主题", "type": "text", "required": true },
+      { "label": "消息", "type": "textarea", "required": true },
+      { "label": "公司/组织（可选）", "type": "text", "required": false }
+    ]
+  },
+  "page4": {
+    "title": "最新更新",
+    "sections": [
+      {
+        "title": "等待时间 (RT)",
+        "description": "GTFS 格式的 STIB 全部线路完整时刻表信息。",
+        "downloads": 2456,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo1.jpeg"
+      },
+      {
+        "title": "车辆定位 (RT)",
+        "description": "所有车辆的实时位置数据，每 30 秒更新一次。",
+        "downloads": 1872,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo2.jpeg"
+      },
+      {
+        "title": "出行信息 (RT)",
+        "description": "包含站点和线路的完整 STIB 网络地理数据。",
+        "downloads": 1567,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo3.jpeg"
+      },
+      {
+        "title": "按线路划分的站点",
+        "description": "有关中断和计划施工的实时信息。",
+        "downloads": 1324,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo4.jpeg"
+      },
+      {
+        "title": "GTFS 文件",
+        "description": "过去 5 年的存档数据，用于分析和研究。",
+        "downloads": 987,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo5.jpeg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "title": "选择您的 ChurchHub 方案",
+    "subtitle": "通过 {website.name} 选择定价方案，为您的教会提供社区参与和成长的工具。"
+  },
+  "pricing": {
+    "title": "定价方案",
+    "description": "在 {website.name} 上探索我们灵活的定价方案，以支持您教会的需求。\n选择符合您目标的方案。\n订阅后将收到电子邮件确认。\n今天就开始提升您的教会社区吧。",
+    "plans": [
+      {
+        "id": 1,
+        "name": "基础方案",
+        "price": "每月 $29",
+        "features": [
+          "每月最多 5 个活动的活动管理",
+          "基础电子邮件通知",
+          "社区论坛访问",
+          "标准支持"
+        ],
+        "buttonText": "选择基础方案"
+      },
+      {
+        "id": 2,
+        "name": "专业方案",
+        "price": "每月 $99",
+        "features": [
+          "无限制活动管理",
+          "高级电子邮件通知",
+          "社区论坛 + 分析",
+          "优先支持"
+        ],
+        "buttonText": "选择专业方案"
+      },
+      {
+        "id": 3,
+        "name": "高级方案",
+        "price": "每月 $199",
+        "features": [
+          "无限制活动管理",
+          "自定义电子邮件通知",
+          "高级分析 + 报告",
+          "专属支持 + 入门指导"
+        ],
+        "buttonText": "选择高级方案"
+      }
+    ],
+    "form": {
+      "title": "订阅方案",
+      "subtitle": "填写以下表单，通过 {website.name} 订阅一个方案。订阅后您将收到电子邮件确认。",
+      "fields": {
+        "churchName": "教会名称",
+        "plan": "定价方案",
+        "submit": "立即订阅"
+      }
+    }
+  },
+  "benefits": {
+    "title": "为什么选择 {website.name} 的方案？",
+    "items": [
+      {
+        "id": 1,
+        "title": "安全的订阅",
+        "description": "通过 {website.name} 的安全平台放心订阅。\n所有交易均已加密。\n您的信息受到保护。\n安全支持您的教会。",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "赋能您的社区",
+        "description": "我们的方案为提升教会活动和参与度提供工具。\n管理活动和承诺。\n促进更紧密的社区联系。\n与 {website.name} 一起成长。",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "无缝体验",
+        "description": "通过 {website.name} 几次点击即可选择方案。\n为您的教会量身定制功能。\n立即收到电子邮件确认。\n轻松支持您的使命。",
+        "icon": "star"
+      }
+    ]
+  }
+}

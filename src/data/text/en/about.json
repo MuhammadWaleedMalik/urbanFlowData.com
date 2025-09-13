@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "title": "About {website.name}",
+    "subtitle": "Discover how {website.name} empowers churches with innovative solutions for management and funding, strengthening faith communities worldwide."
+  },
+  "about": {
+    "title": "Our Story",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Our Mission",
+        "description": "{website.name} is dedicated to transforming church management through technology.\nWe provide digital tools to simplify administration.\nOur platforms optimize member tracking.\nWe streamline event scheduling with intuitive software.\nWe offer secure online donation solutions.\nOur real-time analytics boost community engagement.\nWe prioritize data privacy with robust security.\nMobile apps enable management on the go.\nCustom dashboards adapt to each church's unique needs.\nWe support both small and large congregations.\nOur solutions are scalable and accessible.\nSocial media integration amplifies ministry outreach.\nAutomated reminders improve event attendance.\nFinancial reports are accurate and effortless.\nWe foster stronger community connections.\nOur volunteer tools match skills with roles.\nPrayer systems strengthen collective faith.\nOnline directories keep members connected.\nSecure backups protect critical information.\nUser feedback drives continuous improvements.\nWe collaborate with ministries to expand functionality.\nWe innovate with technologies like AI for sermon preparation.\nOur mission is to empower churches to thrive.\nJoin us to transform the future of churches.\n{website.name} is your ally in modern ministry.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7LbNJ1YEMo7XBqHI_rZLvBBLxnABQsKseOQ&s"
+      },
+      {
+        "id": 2,
+        "title": "Our Vision",
+        "description": "We envision a world where every church thrives.\n{website.name} leads innovation in church technology.\nWe connect churches globally to share resources.\nOur multilingual platforms remove language barriers.\nWe foster partnerships with local businesses for funding.\nOur crowdfunding tools engage communities effectively.\nWe optimize fundraising events with advanced software.\nWe provide analytics to track donation patterns.\nWe support spontaneous donations via mobile apps.\nWe promote stability with legacy giving.\nOur budgeting tools ensure wise resource allocation.\nTransparent reports build congregation trust.\nWe offer training to foster generosity.\nAccounting software integration simplifies finances.\nCustom donation forms reinforce branding.\nRecurring donations create stable income streams.\nWe highlight fund impact with inspiring stories.\nVolunteer-led fundraisers reduce costs.\nChurch merchandise stores generate extra revenue.\nWe track endowment fund investments with precision.\nOur features ensure legal compliance.\nOur vision is a sustainable global ministry.\n{website.name} drives a connected future for churches.\nTogether, we build stronger faith communities.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUao6cSb0AIKWntzW4jm7gCY5d-dZS3cYKyg&s"
+      },
+      {
+        "id": 3,
+        "title": "Our Values",
+        "description": "At {website.name}, our values guide everything we do.\nIntegrity ensures transparency in all operations.\nInnovation drives the development of cutting-edge tools.\nCommunity strengthens connections between global churches.\nAccessibility ensures our solutions serve all churches.\nSustainability promotes lasting impact in ministries.\nCollaboration with churches and partners amplifies our reach.\nTrust is built through secure and transparent data.\nInclusivity ensures every member feels valued.\nTraining empowers leaders to use our tools confidently.\nFaith guides our commitment to spiritual growth.\nExcellence drives continuous service improvements.\nAccountability ensures ethical resource use.\nAdaptability enables customized solutions for each church.\nGenerosity inspires our fundraising tools.\nTechnology serves as a bridge for faith communities.\nTransparency fosters user trust.\nCreativity drives innovative solutions.\nEmpathy ensures we understand church needs.\nPassion fuels our commitment to ministry success.\nUnity connects churches in a shared mission.\n{website.name} lives these values daily.\nJoin us to build a faith-centered future.\nWe transform churches with purpose and passion.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg2K8pw24AaxhXYD94CwmJyuvLwL09ORzWQ&s"
+      },
+      {
+        "id": 4,
+        "title": "Our Team",
+        "description": "Our team at {website.name} is committed to church success.\nLucas Andrade leads technological innovation with expertise.\nIsabella Rossi brings expertise in funding strategies.\nDavid Li drives advanced tech solutions.\nChloe Nguyen strengthens communities through data.\nOmar Khalid connects churches globally.\nEmily Carter empowers leaders with accessible tools.\nOur team blends technology, faith, and passion.\nWe collaborate with churches to understand their needs.\nWe offer 24/7 support for seamless operations.\nOur experts are trained in church management.\nOur team's diversity enriches our solutions.\nWe innovate based on church feedback.\nOur leaders are committed to a global mission.\nWe foster a continuous learning environment.\nOur passion is helping churches thrive.\nWe work with partners to expand capabilities.\nTechnology is our tool to serve faith.\nOur values guide every interaction with churches.\nWe are dedicated to sustainable ministry impact.\nThe {website.name} team is here to support you.\nContact us to transform your church today.\nTogether, we make a difference in faith communities.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQScjmMXuwO4l8AJ-X6r8kLJcsecyokVB8v5w&s"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "title": "Elige tu Plan de ChurchHub",
+    "subtitle": "Selecciona un plan de precios a través de {website.name} para empoderar a tu iglesia con herramientas para la participación y el crecimiento de la comunidad."
+  },
+  "pricing": {
+    "title": "Planes de Precios",
+    "description": "Explora nuestros planes de precios flexibles en {website.name} para apoyar las necesidades de tu iglesia.\nElige un plan que se ajuste a tus objetivos.\nRecibirás una confirmación por correo electrónico al suscribirte.\nComienza hoy a fortalecer tu comunidad eclesiástica.",
+    "plans": [
+      {
+        "id": 1,
+        "name": "Plan Básico",
+        "price": "$29/mes",
+        "features": [
+          "Gestión de hasta 5 eventos/mes",
+          "Notificaciones de correo básicas",
+          "Acceso al foro comunitario",
+          "Soporte estándar"
+        ],
+        "buttonText": "Seleccionar Plan Básico"
+      },
+      {
+        "id": 2,
+        "name": "Plan Pro",
+        "price": "$99/mes",
+        "features": [
+          "Gestión de eventos ilimitada",
+          "Notificaciones de correo avanzadas",
+          "Foro comunitario + Analíticas",
+          "Soporte prioritario"
+        ],
+        "buttonText": "Seleccionar Plan Pro"
+      },
+      {
+        "id": 3,
+        "name": "Plan Premium",
+        "price": "$199/mes",
+        "features": [
+          "Gestión de eventos ilimitada",
+          "Notificaciones de correo personalizadas",
+          "Analíticas avanzadas + Reportes",
+          "Soporte dedicado + Onboarding"
+        ],
+        "buttonText": "Seleccionar Plan Premium"
+      }
+    ],
+    "form": {
+      "title": "Suscribirse a un Plan",
+      "subtitle": "Completa el formulario a continuación para suscribirte a un plan a través de {website.name}. Recibirás una confirmación por correo electrónico al suscribirte.",
+      "fields": {
+        "churchName": "Nombre de la Iglesia",
+        "plan": "Plan de Precios",
+        "submit": "Suscribirse Ahora"
+      }
+    }
+  },
+  "benefits": {
+    "title": "¿Por qué elegir un plan con {website.name}?",
+    "items": [
+      {
+        "id": 1,
+        "title": "Suscripciones Seguras",
+        "description": "Suscríbete con confianza usando la plataforma segura de {website.name}.\nTodas las transacciones están encriptadas.\nTu información está protegida.\nApoya a tu iglesia de manera segura.",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "Fortalece tu Comunidad",
+        "description": "Nuestros planes ofrecen herramientas para mejorar las actividades y la participación de la iglesia.\nGestiona eventos y promesas.\nFomenta lazos comunitarios más fuertes.\nCrece con {website.name}.",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "Experiencia Sin Fricciones",
+        "description": "Elige un plan en pocos clics con {website.name}.\nFunciones adaptadas a tu iglesia.\nRecibe confirmaciones por correo al instante.\nApoya tu misión sin esfuerzo.",
+        "icon": "star"
+      }
+    ]
+  }
+}

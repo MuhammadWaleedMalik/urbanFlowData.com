@@ -1,0 +1,15 @@
+{
+  "logoAlt": "{websiteName}のロゴ",
+  "nav": {
+    "home": "ホーム",
+    "data": "データ",
+    "api": "API",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "logout": "ログアウト"
+  },
+  "languageSelector": {
+    "heading": "言語を選択",
+    "changeLanguageLabel": "言語を変更"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "header": {
+    "logo": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo1.jpeg"
+  },
+  "page1": {
+    "title": "新しいオープンデータポータルへようこそ！",
+    "description": "既存のデータセットにアクセスできるのは素晴らしいことですが、さらに良いのはアイデアを交換し、インスピレーションを得ることです。革新的なソリューションはすぐ近くにあります！ブリュッセルの移動を一緒に支えませんか？ポータルに登録して、新しいデータセットをいち早く入手しましょう。",
+    "links": [
+      {
+        "text": "カタログを見る",
+        "url": "/catalogue"
+      }
+    ]
+  },
+  "page2": {
+    "title": "利用可能なデータ",
+    "cards": [
+      {
+        "title": "GTFS",
+        "description": "使いやすい標準フォーマットでネットワーク全体を提供します。"
+      },
+      {
+        "title": "シェープファイル",
+        "description": "シェープファイルを使えば路線や停留所を地図上に描画できます。"
+      },
+      {
+        "title": "路線と停留所",
+        "description": "路線や停留所に関するすべての情報を確認できます。"
+      },
+      {
+        "title": "車両の位置",
+        "description": "リアルタイムで車両の位置情報を取得できます。"
+      },
+      {
+        "title": "待ち時間",
+        "description": "車両が停留所に到着する時間をすぐに確認できます！"
+      },
+      {
+        "title": "利用者情報",
+        "description": "ネットワークの障害？その情報をプロバイダーと共有してください。"
+      }
+    ]
+  },
+  "page3": {
+    "title": "お問い合わせ",
+    "description": "オープンデータポータルでは対応できない質問や特別なニーズがありますか？ぜひご連絡ください！",
+    "formDescription": "このフォームはオープンデータプラットフォームに関する特別な質問のために使用してください。他の質問については、STIB公式カスタマーケア窓口へご連絡ください。特に指定がない限り、すべての項目は必須です。",
+    "fields": [
+      { "label": "お名前", "type": "text", "required": true },
+      { "label": "メールアドレス", "type": "email", "required": true },
+      { "label": "件名", "type": "text", "required": true },
+      { "label": "メッセージ", "type": "textarea", "required": true },
+      { "label": "会社/組織 (任意)", "type": "text", "required": false }
+    ]
+  },
+  "page4": {
+    "title": "最新情報",
+    "sections": [
+      {
+        "title": "待ち時間 (RT)",
+        "description": "GTFS形式のSTIB全路線の完全な時刻表情報。",
+        "downloads": 2456,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo1.jpeg"
+      },
+      {
+        "title": "車両位置 (RT)",
+        "description": "すべての車両のライブ位置データ（30秒ごとに更新）。",
+        "downloads": 1872,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo2.jpeg"
+      },
+      {
+        "title": "旅行情報 (RT)",
+        "description": "停留所と路線を含むSTIBネットワーク全体の地理データ。",
+        "downloads": 1567,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo3.jpeg"
+      },
+      {
+        "title": "路線ごとの停留所",
+        "description": "リアルタイムの障害や計画工事に関する情報。",
+        "downloads": 1324,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo4.jpeg"
+      },
+      {
+        "title": "GTFSファイル",
+        "description": "過去5年間のアーカイブデータ（分析・研究用）。",
+        "downloads": 987,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo5.jpeg"
+      }
+    ]
+  }
+}

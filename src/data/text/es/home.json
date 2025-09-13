@@ -1,0 +1,73 @@
+{
+  "header": {
+    "logo": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo1.jpeg"
+  },
+  "page1": {
+    "title": "¡Bienvenido a nuestro nuevo portal de Datos Abiertos!",
+    "description": "Tener acceso a los conjuntos de datos existentes es genial, pero ¿sabes qué es aún mejor? Poder intercambiar ideas e inspirarse. ¡Las soluciones innovadoras están a la vuelta de la esquina! ¿Quieres mantener a Bruselas en movimiento también? Suscríbete a nuestro portal y mantente al día con todos los nuevos conjuntos de datos disponibles.",
+    "links": [
+      {
+        "text": "Explorar el Catálogo",
+        "url": "/catalogue"
+      }
+    ]
+  },
+  "page2": {
+    "title": "Datos Disponibles",
+    "cards": [
+      { "title": "GTFS", "description": "Toda la red en un formato estándar y fácil de usar." },
+      { "title": "Shapefiles", "description": "Los shapefiles permiten dibujar nuestras líneas y paradas en un mapa." },
+      { "title": "Líneas y Paradas", "description": "Aquí encontrarás todo sobre líneas y paradas." },
+      { "title": "Ubicación del vehículo", "description": "Obtendrás información en tiempo real sobre la posición de los vehículos." },
+      { "title": "Tiempo de Espera", "description": "¡Descubre al instante cuándo llega un vehículo a una parada!" },
+      { "title": "Información al Cliente", "description": "¿Una interrupción en la red? Comparte la información con nuestros proveedores." }
+    ]
+  },
+  "page3": {
+    "title": "Contáctanos",
+    "description": "¿Tienes una pregunta o una necesidad específica que nuestro portal de datos abiertos no aborda? ¡Ponte en contacto con nosotros!",
+    "formDescription": "Este formulario web está destinado a preguntas específicas relacionadas con nuestra plataforma de datos abiertos. Para todas las demás preguntas, contacta con STIB a través de su Servicio de Atención al Cliente oficial. Todos los campos son obligatorios, salvo que se indique lo contrario.",
+    "fields": [
+      { "label": "Tu nombre", "type": "text", "required": true },
+      { "label": "Correo electrónico", "type": "email", "required": true },
+      { "label": "Asunto", "type": "text", "required": true },
+      { "label": "Mensaje", "type": "textarea", "required": true },
+      { "label": "Compañía/Organización (opcional)", "type": "text", "required": false }
+    ]
+  },
+  "page4": {
+    "title": "Últimas Actualizaciones",
+    "sections": [
+      {
+        "title": "Tiempo de Espera (RT)",
+        "description": "Información completa de horarios para todas las líneas STIB en formato GTFS.",
+        "downloads": 2456,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo1.jpeg"
+      },
+      {
+        "title": "Posicionamiento de Vehículos (RT)",
+        "description": "Datos de ubicación en vivo de todos los vehículos actualizados cada 30 segundos.",
+        "downloads": 1872,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo2.jpeg"
+      },
+      {
+        "title": "Información de Viaje (RT)",
+        "description": "Datos geográficos de toda la red STIB con paradas y líneas.",
+        "downloads": 1567,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo3.jpeg"
+      },
+      {
+        "title": "Paradas por Línea",
+        "description": "Información en tiempo real sobre interrupciones y trabajos planificados.",
+        "downloads": 1324,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo4.jpeg"
+      },
+      {
+        "title": "Archivos GTFS",
+        "description": "Datos archivados de los últimos 5 años para análisis e investigación.",
+        "downloads": 987,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo5.jpeg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "hero": {
+    "title": "{website.name} でファンになろう",
+    "subtitle": "{website.name} の世界的なスポーツコミュニティに参加し、お気に入りのチームや選手を応援しましょう。{primaryColor1}180以上の国{primaryColor1}で限定コンテンツ、ハイライト、ファン体験にアクセスできます。"
+  },
+  "becomeFan": {
+    "title": "ファンになる方法",
+    "description": "{website.name} でファンになるのは簡単で無料です。以下のステップに従って、好きなスポーツやチーム、選手とつながり、かつてないほど試合に没入しましょう。",
+    "form": {
+      "title": "ファンとして登録",
+      "subtitle": "以下のフォームに記入して {website.name} に参加し、お気に入りのチームを応援し始めましょう。",
+      "fields": {
+        "name": "氏名",
+        "email": "メールアドレス",
+        "team": "お気に入りのチーム",
+        "sport": "スポーツを選択",
+        "submit": "ファンとして参加"
+      },
+      "sports": ["サッカー", "バスケットボール", "バレーボール", "アメリカンフットボール", "ホッケー", "野球", "陸上競技", "水泳", "テニス", "ラクロス", "ラグビー", "クリケット", "レスリング", "ソフトボール", "体操"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "アカウントを作成",
+        "description": "メールと基本情報で無料登録。わずか1分で {website.name} コミュニティに参加できます。",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "スポーツを選択",
+        "description": "15種類以上のスポーツから好きな種目とチームを選びましょう。好みに合わせてフィードをカスタマイズできます。",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "交流して楽しむ",
+        "description": "ハイライトを視聴し、ライブ更新をフォローし、他のファンと交流しましょう。情熱を共有し試合を楽しみ続けましょう。",
+        "icon": "video"
+      }
+    ]
+  },
+  "fanFeatures": {
+    "title": "ファン向け機能",
+    "items": [
+      {
+        "id": 1,
+        "title": "試合のライブ更新",
+        "description": "{website.name} でお気に入りチームのスコアやスタッツ、重要な瞬間をリアルタイムでチェックできます。",
+        "icon": "star",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlm2k9ynQCOw80b5-G3_zbBzJID9VGuC2yZw&s"
+   },
+      {
+        "id": 2,
+        "title": "限定ハイライト",
+        "description": "{website.name} ファン限定の厳選されたプレイや瞬間の動画ハイライトを、プラットフォーム上で視聴できます。",
+        "icon": "video",
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJSfThBs8COrlIGgDqrTOhkQ9wFAvN0gwdiQ&s"
+       },
+      {
+        "id": 3,
+        "title": "ファンコミュニティ",
+        "description": "{primaryColor1}180以上の国{primaryColor1}のファンとディスカッションに参加。意見を共有し、勝利を共に祝いましょう。",
+        "icon": "users",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAqUkfjTWb2xObF7WiqUhJGtjgpiDXytjSA&s"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "{website.name} でファンになる理由",
+    "items": [
+      {
+        "id": 1,
+        "title": "リアルタイム交流",
+        "description": "即時更新を受け取り、試合の重要な瞬間とやり取りすることで、より試合に近づけます。",
+        "icon": "star"
+      },
+      {
+        "id": 2,
+        "title": "限定コンテンツ",
+        "description": "ファン向けに作られたプレミアムハイライト、インタビュー、舞台裏映像にアクセスできます。",
+        "icon": "video"
+      },
+      {
+        "id": 3,
+        "title": "世界的なファン層",
+        "description": "世界中の数百万人のファンとつながり、スポーツへの情熱を共有しましょう。",
+        "icon": "users"
+      },
+      {
+        "id": 4,
+        "title": "パーソナライズ体験",
+        "description": "お気に入りのチーム、スポーツ、選手を簡単にフォローするためにフィードをカスタマイズできます。",
+        "icon": "heart"
+      },
+      {
+        "id": 5,
+        "title": "無料で参加",
+        "description": "無料でファンとして始められ、広告なし視聴などのプレミアム機能にアップグレードできます。",
+        "icon": "star"
+      },
+      {
+        "id": 6,
+        "title": "マルチスポーツ対応",
+        "description": "サッカーからバレーボールまで、あらゆるスポーツを応援できるファン向けツールを提供します。",
+        "icon": "heart"
+      }
+    ]
+  }
+}

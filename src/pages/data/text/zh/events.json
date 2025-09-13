@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "管理教会活动",
+    "subtitle": "通过 {website.name} 组织和添加教会活动，与社区互动，并通过电子邮件通知让每个人都保持知情。"
+  },
+  "events": {
+    "title": "添加新活动",
+    "description": "在 {website.name} 上管理与教会相关的活动。\n添加新活动以保持社区的最新动态。\n参与者将收到即将到来的活动的电子邮件通知。\n通过有组织的活动加强社区联系。",
+    "form": {
+      "title": "活动添加表单",
+      "subtitle": "请填写以下表单，通过 {website.name} 为教会添加新活动。注册用户将自动收到电子邮件通知。",
+      "fields": {
+        "churchName": "教会名称",
+        "eventName": "活动名称",
+        "eventDate": "活动日期",
+        "eventTime": "活动时间",
+        "location": "地点",
+        "description": "描述",
+        "submit": "立即添加活动"
+      }
+    }
+  },
+  "benefits": {
+    "title": "为什么要使用 {website.name} 管理活动？",
+    "items": [
+      {
+        "id": 1,
+        "title": "轻松组织",
+        "description": "在 {website.name} 上轻松添加和管理活动。\n简化教会活动的规划。\n将所有内容集中在一个地方。\n增强社区参与度。",
+        "icon": "calendar"
+      },
+      {
+        "id": 2,
+        "title": "电子邮件通知",
+        "description": "自动通过电子邮件通知参与者新活动。\n确保高出席率。\n实时让成员保持知情。\n通过 {website.name} 建立更紧密的联系。",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "关注社区",
+        "description": "创建促进社区和信仰的活动。\n轻松选择日期、时间和地点等细节。\n支持全球的教会使命。\n通过有组织的活动产生影响。",
+        "icon": "map"
+      }
+    ]
+  }
+}

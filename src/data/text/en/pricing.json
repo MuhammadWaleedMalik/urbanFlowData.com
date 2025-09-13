@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "title": "Choose Your ChurchHub Plan",
+    "subtitle": "Select a pricing plan through {website.name} to empower your church with tools for community engagement and growth."
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "description": "Explore our flexible pricing plans on {website.name} to support your church's needs.\nChoose a plan that fits your goals.\nGet email confirmations upon subscription.\nStart enhancing your church community today.",
+    "plans": [
+      {
+        "id": 1,
+        "name": "Basic Plan",
+        "price": "$29/month",
+        "features": [
+          "Event Management for up to 5 events/month",
+          "Basic Email Notifications",
+          "Community Forum Access",
+          "Standard Support"
+        ],
+        "buttonText": "Select Basic Plan"
+      },
+      {
+        "id": 2,
+        "name": "Pro Plan",
+        "price": "$99/month",
+        "features": [
+          "Unlimited Event Management",
+          "Advanced Email Notifications",
+          "Community Forum + Analytics",
+          "Priority Support"
+        ],
+        "buttonText": "Select Pro Plan"
+      },
+      {
+        "id": 3,
+        "name": "Premium Plan",
+        "price": "$199/month",
+        "features": [
+          "Unlimited Event Management",
+          "Custom Email Notifications",
+          "Advanced Analytics + Reporting",
+          "Dedicated Support + Onboarding"
+        ],
+        "buttonText": "Select Premium Plan"
+      }
+    ],
+    "form": {
+      "title": "Subscribe to a Plan",
+      "subtitle": "Complete the form below to subscribe to a plan through {website.name}. You'll receive an email confirmation upon subscription.",
+      "fields": {
+        "churchName": "Church Name",
+        "plan": "Pricing Plan",
+        "submit": "Subscribe Now"
+      }
+    }
+  },
+  "benefits": {
+    "title": "Why Choose a Plan with {website.name}?",
+    "items": [
+      {
+        "id": 1,
+        "title": "Secure Subscriptions",
+        "description": "Subscribe with confidence using {website.name}'s secure platform.\nAll transactions are encrypted.\nYour information is protected.\nSupport your church safely.",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "Empower Your Community",
+        "description": "Our plans provide tools to enhance church activities and engagement.\nManage events and pledges.\nFoster stronger community ties.\nGrow with {website.name}.",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "Seamless Experience",
+        "description": "Choose a plan in a few clicks with {website.name}.\nTailored features for your church.\nReceive email confirmations instantly.\nSupport your mission effortlessly.",
+        "icon": "star"
+      }
+    ]
+  }
+}

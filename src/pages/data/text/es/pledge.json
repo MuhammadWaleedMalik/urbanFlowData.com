@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Comprométete a Apoyar a las Iglesias",
+    "subtitle": "Haz un compromiso con {website.name} para apoyar la misión y el alcance comunitario de las iglesias."
+  },
+  "pledge": {
+    "title": "Hacer un Compromiso",
+    "description": "Apoya a las iglesias con compromisos recurrentes a través de {website.name}.\nElige una iglesia para tu compromiso.\nCada compromiso fortalece los ministerios.\nTu apoyo continuo marca la diferencia.",
+    "form": {
+      "title": "Formulario de Compromiso",
+      "subtitle": "Completa el formulario a continuación para hacer un compromiso con una iglesia a través de {website.name}.",
+      "fields": {
+        "churchName": "Nombre de la Iglesia",
+        "pledgeAmount": "Monto del Compromiso ($)",
+        "frequency": "Frecuencia del Compromiso",
+        "paymentMethod": "Método de Pago",
+        "submit": "Hacer Compromiso Ahora"
+      },
+      "frequencies": ["Mensual", "Trimestral", "Anual"],
+      "paymentMethods": ["Tarjeta de Crédito", "PayPal", "Transferencia Bancaria"]
+    }
+  },
+  "benefits": {
+    "title": "¿Por Qué Hacer un Compromiso con {website.name}?",
+    "items": [
+      {
+        "id": 1,
+        "title": "Compromisos Seguros",
+        "description": "Comprométete con confianza usando la plataforma segura de {website.name}.\nTodas las transacciones están encriptadas.\nTu información está protegida.\nApoya a las iglesias de manera segura.",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "Apoyo Continuo",
+        "description": "Tus compromisos recurrentes ayudan a las iglesias a planificar y financiar misiones.\nSostiene programas comunitarios.\nApoya esfuerzos ministeriales a largo plazo.\nHaz un impacto con {website.name}.",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "Proceso Sencillo",
+        "description": "Comprométete en pocos clics con {website.name}.\nElige tu iglesia, monto y frecuencia.\nSelecciona un método de pago conveniente.\nApoya la fe fácilmente.",
+        "icon": "globe"
+      }
+    ]
+  }
+}

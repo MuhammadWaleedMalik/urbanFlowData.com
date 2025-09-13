@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "{website.name} チームを紹介",
+    "subtitle": "私たちは、スポーツパフォーマンスの革新に情熱を注ぐ、イノベーター、元アスリート、技術者の集まりです。"
+  },
+  "mission": {
+    "title": "私たちについて",
+    "description": "{website.name} では、スポーツ、テクノロジー、ユーザー体験の専門知識を組み合わせ、世界中のアスリートやコーチを支えるツールを開発しています。競争への愛情と、スポーツ分析を誰にでも使いやすく、直感的で、効果的なものにするという使命に突き動かされています。"
+  },
+  "features": {
+    "title": "リーダーシップチーム",
+    "items": [
+      {
+        "id": 1,
+        "title": "Emily Carter",
+        "role": "CEO 兼共同創業者",
+        "description": "元ナショナルホッケー選手の Emily は、最先端技術をすべてのロッカールームに届けるために {website.name} を共同設立しました。スポーツテック分野で 12 年の経験を持ち、すべてのアスリートにプロレベルのツールを提供することに注力しています。",
+        "icon": "users",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymP7BcyIu1rr2Xy7yWG5-EL9cTvjRXKaneg&s"
+      },
+      {
+        "id": 2,
+        "title": "David Li",
+        "role": "最高技術責任者",
+        "description": "David は 20 年以上にわたり AI システムやスケーラブルソフトウェアの経験を積み、エンジニアリング部門を率いています。生データを実用的な洞察に変えることへの情熱が、製品革新を推進しています。",
+        "icon": "stats",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v0b20j64kqwFn-EZf3rec309YPYazxEnSQ&s"
+      },
+      {
+        "id": 3,
+        "title": "Isabella Rossi",
+        "role": "プロダクト責任者",
+        "description": "元プロバレーボールコーチの Isabella は、コーチのワークフローに完全に合致する機能を設計します。スポーツと UX の両方に精通し、{website.name} を直感的かつ強力なものに保ちます。",
+        "icon": "video",
+        "image": "https://media.istockphoto.com/id/1398385367/photo/happy-millennial-business-woman-in-glasses-posing-with-hands-folded.jpg?s=612x612&w=0&k=20&c=Wd2vTDd6tJ5SeEY-aw0WL0bew8TAkyUGVvNQRj3oJFw="
+      },
+      {
+        "id": 4,
+        "title": "Omar Khalid",
+        "role": "グローバルオペレーション担当副社長",
+        "description": "Omar は {primaryColor1}180 以上の国{primaryColor1}での運営を管理し、すべてのユーザーにスムーズな体験を提供します。国際物流とスポーツマーケティングの経験が、当社の世界的な拡大を支えています。",
+        "icon": "globe",
+        "image": "https://t3.ftcdn.net/jpg/02/48/15/86/360_F_248158608_0ErNeAWWx6GZVDCg66jNRoPGEhHCSpaJ.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Chloe Nguyen",
+        "role": "カスタマーサクセスディレクター",
+        "description": "元大学陸上競技選手の Chloe は、そのエネルギーをカスタマーサクセスチームの運営に注いでいます。彼女は、すべてのユーザーが個別のサポートを受け、{website.name} で最大の成果を得られるようにしています。",
+        "icon": "headphones",
+        "image": "https://media.istockphoto.com/id/1347993286/photo/portrait-of-confident-young-professional-smiling-at-camera.jpg?s=612x612&w=0&k=20&c=9DnLQ37LlMFzh9VvoPGKvnM286JCOtUeUYof3C8vIQA="
+      },
+      {
+        "id": 6,
+        "title": "Lucas Andrade",
+        "role": "主任 AI エンジニア",
+        "description": "Lucas は AI を活用したパフォーマンストラッキングアルゴリズムを設計します。コンピュータービジョンと予測分析の専門知識を活かし、コーチが重要なプレーや傾向を簡単に特定できるようにします。",
+        "icon": "camera",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0zYcypyreQSHIWXlpNM2hnAi6gJlYkX3vA&s"
+      }
+    ]
+  },
+  "stats": {
+    "title": "{website.name} の数字",
+    "items": [
+      { "value": "200K+", "label": "世界中のチーム" },
+      { "value": "6M+", "label": "アクティブユーザー" },
+      { "value": "180+", "label": "国" },
+      { "value": "15+", "label": "スポーツ種目" }
+    ]
+  },
+  "team": {
+    "title": "私たちの文化",
+    "description": "{website.name} では、協力、革新、そしてスポーツへの情熱を育みます。多様なチームが協力し、限界に挑戦し、勝利を祝い、本当のチームのように互いを支え合っています。スポーツテクノロジーの未来を共に築きましょう — 採用ページで募集中の職種をご覧ください。"
+  }
+}

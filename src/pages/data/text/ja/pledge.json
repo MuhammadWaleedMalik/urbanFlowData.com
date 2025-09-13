@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "教会を支援する誓約",
+    "subtitle": "{website.name}を通じて誓約を行い、教会の使命と地域社会への影響を支援します。"
+  },
+  "pledge": {
+    "title": "誓約を行う",
+    "description": "{website.name}を通じて定期的な誓約で教会を支援します。\n支援する教会を選びます。\nすべての誓約が教会の奉仕を強化します。\nあなたの継続的な支援が違いを生みます。",
+    "form": {
+      "title": "誓約フォーム",
+      "subtitle": "以下のフォームに記入して、{website.name}を通じて教会に誓約を行ってください。",
+      "fields": {
+        "churchName": "教会の名前",
+        "pledgeAmount": "誓約金額 ($)",
+        "frequency": "誓約の頻度",
+        "paymentMethod": "支払い方法",
+        "submit": "今すぐ誓約する"
+      },
+      "frequencies": ["毎月", "四半期ごと", "毎年"],
+      "paymentMethods": ["クレジットカード", "PayPal", "銀行振込"]
+    }
+  },
+  "benefits": {
+    "title": "なぜ{website.name}で誓約するのか？",
+    "items": [
+      {
+        "id": 1,
+        "title": "安全な誓約",
+        "description": "{website.name}の安全なプラットフォームで安心して誓約できます。\nすべての取引は暗号化されています。\nあなたの情報は保護されています。\n安全に教会を支援します。",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "継続的な支援",
+        "description": "あなたの定期的な誓約は教会が使命を計画し資金を提供するのに役立ちます。\nコミュニティプログラムを支えます。\n長期的な奉仕活動を支援します。\n{website.name}で影響を与えます。",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "簡単なプロセス",
+        "description": "{website.name}で数クリックで誓約できます。\n教会、金額、頻度を選びます。\n便利な支払い方法を選択します。\n信仰を簡単に支援します。",
+        "icon": "globe"
+      }
+    ]
+  }
+}

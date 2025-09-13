@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "title": "Dona para Apoyar a las Iglesias",
+    "subtitle": "Dona a iglesias a través de {website.name} para apoyar su misión y alcance comunitario."
+  },
+  "donate": {
+    "title": "Realizar una Donación",
+    "description": "Apoya a las iglesias con tus generosas contribuciones en {website.name}.\nElige una iglesia para donar.\nCada donación ayuda a los ministerios a prosperar.\nTu donación marca la diferencia.",
+    "form": {
+      "title": "Formulario de Donación",
+      "subtitle": "Completa el formulario a continuación para donar a una iglesia a través de {website.name}.",
+      "fields": {
+        "churchName": "Nombre de la Iglesia",
+        "amount": "Monto de la Donación ($)",
+        "paymentMethod": "Método de Pago",
+        "submit": "Donar Ahora"
+      },
+      "paymentMethods": ["Tarjeta de Crédito", "PayPal", "Transferencia Bancaria"]
+    }
+  },
+  "benefits": {
+    "title": "¿Por Qué Donar con {website.name}?",
+    "items": [
+      {
+        "id": 1,
+        "title": "Donaciones Seguras",
+        "description": "Dona con confianza usando la plataforma segura de {website.name}.\nTodas las transacciones están encriptadas.\nTu información está protegida.\nApoya a las iglesias de manera segura.",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "Apoyo a Misiones",
+        "description": "Tus donaciones ayudan a las iglesias a financiar misiones y alcance comunitario.\nHabilita programas comunitarios.\nApoya esfuerzos ministeriales globales.\nHaz un impacto con {website.name}.",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "Proceso Fácil",
+        "description": "Dona en pocos clics con {website.name}.\nElige tu iglesia y monto.\nSelecciona un método de pago conveniente.\nDona fácilmente para apoyar la fe.",
+        "icon": "globe"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "header": {
+    "logo": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo1.jpeg"
+  },
+  "page1": {
+    "title": "Welcome to our new Open Data portal!",
+    "description": "Having access to existing datasets is great, but do you know what is even better? Being able to exchange ideas and get inspired. Innovative solutions are just around the corner! Do you want keep Brussels moving too? Subscribe to our portal and stay on top of all new datasets available.",
+    "links": [
+      {
+        "text": "Browse The Catalogue",
+        "url": "/catalogue"
+      }
+    ]
+  },
+  "page2": {
+    "title": "Available Data",
+    "cards": [
+      {
+        "title": "GTFS",
+        "description": "This is the entire network in an easy to use standard format."
+      },
+      {
+        "title": "Shapefiles",
+        "description": "Shapefiles enable you to draw our lines and stops on a map."
+      },
+      {
+        "title": "Lines & Stops",
+        "description": "Here you can find out everything about lines and stops."
+      },
+      {
+        "title": "Location of the vehicle",
+        "description": "You will get real time vehicle position information."
+      },
+      {
+        "title": "Waiting Time",
+        "description": "Discover at a glance when a vehicle is reaching a stop!"
+      },
+      {
+        "title": "Customer Information",
+        "description": "A disruption on the network? Please share the information with our providers."
+      }
+    ]
+  },
+  "page3": {
+    "title": "Contact Us",
+    "description": "Do you have a question or a specific need that our Open Data portal does not address? Please get in touch with us!",
+    "formDescription": "This webform is meant to be used for specific questions relating to our open data platform. For all other questions, please contact STIB through its official Customer Care channels. All fields are mandatory, unless specified otherwise.",
+    "fields": [
+      {
+        "label": "Your name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Email address",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Subject",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Message",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "label": "Company/Organization (optional)",
+        "type": "text",
+        "required": false
+      }
+    ]
+  },
+  "page4": {
+    "title": "Latest Updates",
+    "sections": [
+      {
+        "title": "Waiting Time (RT)" ,
+        "description": "Complete timetable information for all STIB lines in GTFS format.",
+        "downloads": 2456,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo1.jpeg"
+      },
+      {
+        "title": "Vehicle Positioning (RT)",
+        "description": "Live location data for all vehicles updated every 30 seconds.",
+        "downloads": 1872,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo2.jpeg"
+      },
+      {
+        "title": "Travel Informations (RT)",
+        "description": "Geographical data of the complete STIB network with stops and lines.",
+        "downloads": 1567,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo3.jpeg"
+      },
+      {
+        "title": "Stops by Line",
+        "description": "Real-time information about disruptions and planned works.",
+        "downloads": 1324,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo4.jpeg"
+      },
+      {
+        "title": "GTFS Files" ,
+        "description": "Archived data from the past 5 years for analysis and research.",
+        "downloads": 987,
+        "image": "https://s3-eu-west-1.amazonaws.com/aws-ec2-eu-1-opendatasoft-staticfileset/stibmivb/theme_image/stib_photo5.jpeg"
+      }
+      
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "title": "Acerca de {website.name}",
+    "subtitle": "Descubre cómo {website.name} empodera a las iglesias con soluciones innovadoras para la gestión y financiación, fortaleciendo comunidades de fe en todo el mundo."
+  },
+  "about": {
+    "title": "Nuestra Historia",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Nuestra Misión",
+        "description": "{website.name} está dedicado a transformar la gestión de iglesias a través de la tecnología.\nOfrecemos herramientas digitales que simplifican la administración.\nNuestras plataformas optimizan el seguimiento de miembros.\nFacilitamos la programación de eventos con software intuitivo.\nProporcionamos soluciones de donación en línea seguras.\nNuestros análisis en tiempo real impulsan la participación comunitaria.\nPriorizamos la privacidad de los datos con seguridad robusta.\nLas aplicaciones móviles permiten la gestión en movimiento.\nLos paneles personalizados se adaptan a las necesidades de cada iglesia.\nApoyamos tanto a pequeñas como a grandes congregaciones.\nNuestras soluciones son escalables y accesibles.\nLa integración con redes sociales amplifica el alcance del ministerio.\nLos recordatorios automáticos mejoran la asistencia a eventos.\nLos informes financieros son precisos y fáciles de generar.\nFomentamos conexiones comunitarias más fuertes.\nNuestras herramientas de voluntariado emparejan habilidades con roles.\nLos sistemas de oración fortalecen la fe colectiva.\nLos directorios en línea mantienen a los miembros conectados.\nProtegemos la información con copias de seguridad seguras.\nLa retroalimentación de los usuarios impulsa mejoras continuas.\nColaboramos con ministerios para ampliar funcionalidades.\nInnovamos con tecnologías como la IA para la preparación de sermones.\nNuestra misión es empoderar a las iglesias para prosperar.\nÚnete a nosotros para transformar el futuro de la iglesia.\n{website.name} es tu aliado en el ministerio moderno.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7LbNJ1YEMo7XBqHI_rZLvBBLxnABQsKseOQ&s"
+      },
+      {
+        "id": 2,
+        "title": "Nuestra Visión",
+        "description": "Imaginamos un mundo donde cada iglesia prospere.\n{website.name} lidera la innovación en tecnología eclesial.\nConectamos iglesias globalmente para compartir recursos.\nNuestras plataformas multilingües eliminan barreras lingüísticas.\nFomentamos asociaciones con empresas locales para financiamiento.\nNuestras herramientas de crowdfunding involucran a la comunidad.\nOptimizamos eventos de recaudación con software avanzado.\nProporcionamos análisis para rastrear patrones de donación.\nApoyamos donaciones espontáneas a través de aplicaciones móviles.\nPromovemos la estabilidad con donaciones de legado.\nNuestras herramientas de presupuestación aseguran una gestión sabia.\nLos informes transparentes generan confianza en la congregación.\nOfrecemos capacitación para fomentar la generosidad.\nLa integración con software contable simplifica las finanzas.\nLos formularios de donación personalizados refuerzan la marca.\nLas donaciones recurrentes crean flujos de ingresos estables.\nDestacamos el impacto de los fondos con historias inspiradoras.\nReducimos costos con recaudaciones lideradas por voluntarios.\nLas tiendas de mercancía generan ingresos adicionales.\nSeguimos inversiones en fondos de dotación con precisión.\nGarantizamos el cumplimiento legal con nuestras funciones.\nNuestra visión es un ministerio global sostenible.\n{website.name} impulsa un futuro conectado para las iglesias.\nJuntos, construimos comunidades de fe más fuertes.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUao6cSb0AIKWntzW4jm7gCY5d-dZS3cYKyg&s"
+      },
+      {
+        "id": 3,
+        "title": "Nuestros Valores",
+        "description": "En {website.name}, nuestros valores guían todo lo que hacemos.\nLa integridad asegura transparencia en todas nuestras operaciones.\nLa innovación impulsa el desarrollo de herramientas de vanguardia.\nLa comunidad fortalece las conexiones entre iglesias globales.\nLa accesibilidad garantiza que nuestras soluciones sirvan a todas las iglesias.\nLa sostenibilidad promueve un impacto duradero en los ministerios.\nLa colaboración con iglesias y socios amplifica nuestro alcance.\nLa confianza se construye mediante datos seguros y transparentes.\nLa inclusión asegura que todos los miembros se sientan valorados.\nLa capacitación empodera a los líderes para usar nuestras herramientas.\nLa fe guía nuestro compromiso con el crecimiento espiritual.\nLa excelencia impulsa mejoras continuas en nuestros servicios.\nLa responsabilidad asegura un uso ético de los recursos.\nLa adaptabilidad permite soluciones personalizadas para cada iglesia.\nLa generosidad inspira nuestras herramientas de financiación.\nLa tecnología sirve como puente para comunidades de fe.\nLa transparencia fomenta la confianza de los usuarios.\nLa creatividad impulsa soluciones innovadoras.\nLa empatía asegura que entendemos las necesidades de las iglesias.\nLa pasión alimenta nuestro compromiso con el éxito del ministerio.\nLa unidad conecta a las iglesias en una misión compartida.\n{website.name} vive estos valores diariamente.\nÚnete a nosotros para construir un futuro centrado en la fe.\nTransformamos iglesias con propósito y pasión.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg2K8pw24AaxhXYD94CwmJyuvLwL09ORzWQ&s"
+      },
+      {
+        "id": 4,
+        "title": "Nuestro Equipo",
+        "description": "Nuestro equipo en {website.name} está comprometido con el éxito de las iglesias.\nLucas Andrade lidera la innovación tecnológica con experiencia.\nIsabella Rossi aporta expertise en estrategias de financiación.\nDavid Li impulsa soluciones tecnológicas avanzadas.\nChloe Nguyen fortalece las comunidades mediante datos.\nOmar Khalid conecta iglesias a nivel global.\nEmily Carter empodera a líderes con herramientas accesibles.\nNuestro equipo combina tecnología, fe y pasión.\nColaboramos con iglesias para entender sus necesidades.\nOfrecemos soporte 24/7 para operaciones fluidas.\nNuestros expertos están capacitados en gestión eclesial.\nLa diversidad de nuestro equipo enriquece nuestras soluciones.\nInnovamos basados en retroalimentación de las iglesias.\nNuestros líderes están comprometidos con la misión global.\nFomentamos un entorno de aprendizaje continuo.\nNuestra pasión es empoderar a las iglesias para prosperar.\nTrabajamos con socios para ampliar nuestras capacidades.\nLa tecnología es nuestra herramienta para servir a la fe.\nNuestros valores guían cada interacción con las iglesias.\nEstamos dedicados a un impacto sostenible en los ministerios.\nEl equipo de {website.name} está aquí para apoyarte.\nContáctanos para transformar tu iglesia hoy.\nJuntos, hacemos una diferencia en las comunidades de fe.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQScjmMXuwO4l8AJ-X6r8kLJcsecyokVB8v5w&s"
+      }
+    ]
+  }
+}

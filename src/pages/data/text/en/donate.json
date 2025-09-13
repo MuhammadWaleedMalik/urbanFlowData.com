@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "title": "Donate to Support Churches",
+    "subtitle": "Give to churches through {website.name} to support their mission and community outreach."
+  },
+  "donate": {
+    "title": "Make a Donation",
+    "description": "Support churches with your generous contributions on {website.name}.\nChoose a church to donate to.\nEvery gift helps ministries thrive.\nYour donation makes a difference.",
+    "form": {
+      "title": "Donation Form",
+      "subtitle": "Fill out the form below to donate to a church via {website.name}.",
+      "fields": {
+        "churchName": "Church Name",
+        "amount": "Donation Amount ($)",
+        "paymentMethod": "Payment Method",
+        "submit": "Donate Now"
+      },
+      "paymentMethods": ["Credit Card", "PayPal", "Bank Transfer"]
+    }
+  },
+  "benefits": {
+    "title": "Why Donate with {website.name}?",
+    "items": [
+      {
+        "id": 1,
+        "title": "Secure Giving",
+        "description": "Donate with confidence using {website.name}'s secure platform.\nAll transactions are encrypted.\nYour information is protected.\nSupport churches safely.",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "Support Missions",
+        "description": "Your donations help churches fund missions and outreach.\nEnable community programs.\nSupport global ministry efforts.\nMake an impact with {website.name}.",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "Easy Process",
+        "description": "Donate in just a few clicks with {website.name}.\nChoose your church and amount.\nSelect a convenient payment method.\nGive effortlessly to support faith.",
+        "icon": "globe"
+      }
+    ]
+  }
+}

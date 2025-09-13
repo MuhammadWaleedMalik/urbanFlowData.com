@@ -1,0 +1,109 @@
+{
+  "hero": {
+    "title": "在 {website.name} 成为一名粉丝",
+    "subtitle": "加入 {website.name} 的全球体育社区，为你喜爱的球队和运动员加油。在 {primaryColor1}180+ 个国家{primaryColor1}获取独家内容、集锦和粉丝体验。"
+  },
+  "becomeFan": {
+    "title": "如何成为粉丝",
+    "description": "在 {website.name} 成为粉丝既简单又免费。按照以下步骤与您最喜爱的体育项目、球队和球员建立联系，前所未有地融入比赛氛围。",
+    "form": {
+      "title": "注册成为粉丝",
+      "subtitle": "填写以下表格，加入 {website.name}，开始支持你喜爱的球队。",
+      "fields": {
+        "name": "姓名",
+        "email": "电子邮箱",
+        "team": "最喜欢的球队",
+        "sport": "选择运动项目",
+        "submit": "加入成为粉丝"
+      },
+      "sports": ["足球", "篮球", "排球", "美式足球", "曲棍球", "棒球", "田径", "游泳", "网球", "长曲棍球", "橄榄球", "板球", "摔跤", "垒球", "体操"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "创建你的账户",
+        "description": "使用电子邮箱和基本信息免费注册。只需一分钟即可加入 {website.name} 社区。",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "选择你的运动项目",
+        "description": "从我们提供的 15+ 种运动中选择你喜欢的运动和球队。自定义你的资讯流，关注你热爱的比赛。",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "参与并探索",
+        "description": "观看集锦，关注实时更新，与其他粉丝互动。分享你的热情并持续关注比赛。",
+        "icon": "video"
+      }
+    ]
+  },
+  "fanFeatures": {
+    "title": "粉丝功能",
+    "items": [
+      {
+        "id": 1,
+        "title": "比赛实时更新",
+        "description": "通过 {website.name} 获取你最喜爱的球队比分、数据和关键时刻的实时更新。",
+        "icon": "star",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlm2k9ynQCOw80b5-G3_zbBzJID9VGuC2yZw&s"
+  },
+      {
+        "id": 2,
+        "title": "独家集锦",
+        "description": "观看仅限 {website.name} 粉丝观看的精选视频集锦和精彩时刻，直接在我们的平台上播放。",
+        "icon": "video",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJSfThBs8COrlIGgDqrTOhkQ9wFAvN0gwdiQ&s"
+          },
+      {
+        "id": 3,
+        "title": "粉丝社区",
+        "description": "加入 {primaryColor1}180+ 个国家{primaryColor1} 的粉丝讨论。分享你的想法，一起庆祝胜利。",
+        "icon": "users",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAqUkfjTWb2xObF7WiqUhJGtjgpiDXytjSA&s"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "为什么要在 {website.name} 成为粉丝",
+    "items": [
+      {
+        "id": 1,
+        "title": "实时互动",
+        "description": "即时获取更新并与比赛关键时刻互动，让你更贴近赛场。",
+        "icon": "star"
+      },
+      {
+        "id": 2,
+        "title": "独家内容",
+        "description": "获取专为粉丝打造的优质集锦、采访和幕后内容。",
+        "icon": "video"
+      },
+      {
+        "id": 3,
+        "title": "全球粉丝群体",
+        "description": "与全球数百万粉丝连接，分享你对体育的热情。",
+        "icon": "users"
+      },
+      {
+        "id": 4,
+        "title": "个性化体验",
+        "description": "自定义你的资讯流，轻松关注你喜爱的球队、运动和球员。",
+        "icon": "heart"
+      },
+      {
+        "id": 5,
+        "title": "免费加入",
+        "description": "免费开始成为粉丝，并可升级享受无广告观看等高级功能。",
+        "icon": "star"
+      },
+      {
+        "id": 6,
+        "title": "多运动项目支持",
+        "description": "支持任何运动，从足球到排球，配备为粉丝设计的工具。",
+        "icon": "heart"
+      }
+    ]
+  }
+}

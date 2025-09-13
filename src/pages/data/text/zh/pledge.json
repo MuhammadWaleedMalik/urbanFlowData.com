@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "承诺支持教会",
+    "subtitle": "通过{website.name}做出承诺，支持教会的使命和社区影响力。"
+  },
+  "pledge": {
+    "title": "做出承诺",
+    "description": "通过{website.name}以定期承诺支持教会。\n选择您要承诺支持的教会。\n每份承诺都增强了教会的事工。\n您的持续支持意义重大。",
+    "form": {
+      "title": "承诺表格",
+      "subtitle": "请填写以下表格，通过{website.name}向教会做出承诺。",
+      "fields": {
+        "churchName": "教会名称",
+        "pledgeAmount": "承诺金额 ($)",
+        "frequency": "承诺频率",
+        "paymentMethod": "支付方式",
+        "submit": "立即承诺"
+      },
+      "frequencies": ["每月", "每季", "每年"],
+      "paymentMethods": ["信用卡", "PayPal", "银行转账"]
+    }
+  },
+  "benefits": {
+    "title": "为什么通过{website.name}做出承诺？",
+    "items": [
+      {
+        "id": 1,
+        "title": "安全承诺",
+        "description": "通过{website.name}的安全平台放心承诺。\n所有交易均经过加密。\n您的信息受到保护。\n安全地支持教会。",
+        "icon": "dollar"
+      },
+      {
+        "id": 2,
+        "title": "持续支持",
+        "description": "您的定期承诺帮助教会规划和资助使命。\n支持社区项目。\n助力长期事工努力。\n通过{website.name}产生影响。",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "简单流程",
+        "description": "通过{website.name}几次点击即可承诺。\n选择您的教会、金额和频率。\n选择方便的支付方式。\n轻松支持信仰。",
+        "icon": "globe"
+      }
+    ]
+  }
+}

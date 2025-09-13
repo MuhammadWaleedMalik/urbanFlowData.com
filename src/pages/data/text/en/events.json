@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Manage Church Events",
+    "subtitle": "Organize and add events for churches through {website.name} to engage your community and keep everyone informed via email notifications."
+  },
+  "events": {
+    "title": "Add a New Event",
+    "description": "Manage events related to churches on {website.name}.\nAdd new events to keep your community updated.\nParticipants will receive email notifications for upcoming events.\nStrengthen community ties through organized activities.",
+    "form": {
+      "title": "Event Addition Form",
+      "subtitle": "Complete the form below to add a new event for a church through {website.name}. Email notifications will be sent automatically to registered users.",
+      "fields": {
+        "churchName": "Church Name",
+        "eventName": "Event Name",
+        "eventDate": "Event Date",
+        "eventTime": "Event Time",
+        "location": "Location",
+        "description": "Description",
+        "submit": "Add Event Now"
+      }
+    }
+  },
+  "benefits": {
+    "title": "Why Manage Events with {website.name}?",
+    "items": [
+      {
+        "id": 1,
+        "title": "Easy Organization",
+        "description": "Add and manage events effortlessly on {website.name}.\nStreamline planning for church activities.\nKeep everything in one place.\nEnhance community engagement.",
+        "icon": "calendar"
+      },
+      {
+        "id": 2,
+        "title": "Email Notifications",
+        "description": "Automatically notify participants via email about new events.\nEnsure high attendance.\nKeep members informed in real-time.\nBuild stronger connections with {website.name}.",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "title": "Community Focus",
+        "description": "Create events that foster community and faith.\nChoose details like date, time, and location easily.\nSupport church missions globally.\nMake an impact through organized events.",
+        "icon": "map"
+      }
+    ]
+  }
+}

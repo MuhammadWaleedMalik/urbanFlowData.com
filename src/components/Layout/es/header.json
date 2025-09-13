@@ -1,0 +1,15 @@
+{
+  "logoAlt": "Logotipo de {websiteName}",
+  "nav": {
+    "home": "Inicio",
+    "data": "Datos",
+    "api": "API",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar sesión"
+  },
+  "languageSelector": {
+    "heading": "Seleccionar idioma",
+    "changeLanguageLabel": "Cambiar idioma"
+  }
+} 

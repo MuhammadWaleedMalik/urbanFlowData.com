@@ -1,0 +1,94 @@
+{
+  "lastUpdated": "Last Updated: May 27, 2025",
+  "sections": [
+    {
+      "title": "1. Introduction",
+      "faqs": [
+        {
+          "question": "What is Your Giving Group (YGG)?",
+          "answer": "Your Giving Group (YGG) is a platform that provides services to churches, ministries, and other organizations to increase donations and engagement. Our services include text-to-give, event management, custom app development, church management software, website building, messaging, payment processing, and media management. These services are designed to help organizations strengthen community engagement and streamline donation processes."
+        },
+        {
+          "question": "How are the Terms of Service updated?",
+          "answer": "The Terms of Service may be updated from time to time. If changes occur, the revised terms will be posted at https://get.tithe.ly/terms-of-service. Continued use of the services constitutes acceptance of the updated terms. Significant changes will be communicated via the login area or the registered email address."
+        }
+      ]
+    },
+    {
+      "title": "2. About Our Services",
+      "faqs": [
+        {
+          "question": "What are the main services offered by YGG?",
+          "answer": "YGG offers text-to-give, QuickGive™ (one-tap donations), event management, custom app development, church management software, website building, messaging, payment processing, and media management. These services are designed to support organizational operations and enhance donor relationships. For more details, visit https://get.tithe.ly."
+        },
+        {
+          "question": "How are service features modified?",
+          "answer": "YGG reserves the right, at its sole discretion, to upgrade, maintain, modify, add, remove, or improve services. These changes aim to enhance user experience or introduce new features. If a change significantly impacts the services, users may be notified in advance."
+        }
+      ]
+    },
+    {
+      "title": "3. Account and Usage",
+      "faqs": [
+        {
+          "question": "What information is required to create an account?",
+          "answer": "To create an account, you must provide true and accurate information, including your name, address, credit card details, bank account information, and background check details. For payment processing services, personal information of beneficial owners (full name, date of birth, Social Security Number, etc.) and bank account details are also required. This information is used to comply with anti-money laundering laws and 'Know Your Customer' procedures."
+        },
+        {
+          "question": "How is account security managed?",
+          "answer": "You are responsible for your account's security. Set a strong password and do not share it with third parties. YGG is not liable for unauthorized actions or losses resulting from shared account information. If you believe your credentials have been compromised, contact support@tithe.ly immediately."
+        },
+        {
+          "question": "How can I cancel the service?",
+          "answer": "You may terminate the service with 30 days' written notice. Cancellation can be done through your account or by contacting support@tithe.ly. Fees for the current service period are non-refundable. Upon termination, access to your account and related data will end immediately."
+        },
+        {
+          "question": "How do payment processing services work?",
+          "answer": "YGG’s payment processing services support credit cards, debit cards, and ACH transactions, provided through Stripe. Transactions incur service fees, and funds, after deducting fees, are transferred to the designated bank account daily, weekly, or monthly. Payments may be paused for chargebacks or fraud prevention."
+        },
+        {
+          "question": "What should I know about using the messaging service?",
+          "answer": "The messaging service is provided through Twilio and is subject to Twilio’s Terms of Service. You are responsible for obtaining consent from contacts and complying with data protection laws. For details, see Twilio’s Terms of Service at https://www.twilio.com/legal/tos."
+        },
+        {
+          "question": "What is the Acceptable Use Policy?",
+          "answer": "The Acceptable Use Policy outlines rules for appropriate use of the services. It prohibits illegal activities, rights violations, and uploading malicious code. You can review the policy at https://get.tithe.ly/legal/aup. All users must comply with this policy."
+        }
+      ]
+    },
+    {
+      "title": "4. Fees and Payments",
+      "faqs": [
+        {
+          "question": "How are service fees billed?",
+          "answer": "Service fees consist of subscription fees (monthly or annual) and transaction fees. Subscription fees are charged periodically based on the selected term, and transaction fees are billed monthly based on usage. All fees are in USD, and details are available at https://get.tithe.ly."
+        },
+        {
+          "question": "Do subscriptions renew automatically?",
+          "answer": "Yes, monthly or annual subscriptions renew automatically unless canceled. Cancellation can be done through your account or by written notice. Simply deleting the app does not cancel the subscription."
+        },
+        {
+          "question": "What happens if there is a chargeback or refund?",
+          "answer": "In case of chargebacks or refunds, YGG may deduct the negative balance from your bank account. If unrecoverable, YGG may invoice you for the outstanding balance. For errors, contact support@tithe.ly."
+        }
+      ]
+    },
+    {
+      "title": "5. Intellectual Property and Content",
+      "faqs": [
+        {
+          "question": "What are the rights regarding content used in YGG’s services?",
+          "answer": "YGG retains all intellectual property rights to the services and content. You are granted the right to use content for internal business purposes only. You may not transfer or sell media content to third parties."
+        },
+        {
+          "question": "Who is responsible for customer and media content?",
+          "answer": "You are fully responsible for the legality, accuracy, and appropriateness of customer and media content you upload. This includes ensuring no infringement of copyrights or privacy rights and obtaining necessary consents. YGG is not obligated to review content."
+        },
+        {
+          "question": "How does YGG use customer data?",
+          "answer": "YGG may use de-identified customer data for industry trend analysis, statistical research, and service improvement. However, individual customer or donor information will not be disclosed."
+        }
+      ]
+    }
+  ]
+}
